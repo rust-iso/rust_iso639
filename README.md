@@ -31,7 +31,7 @@ Where possible the codes are derived from ISO 639-2, where the name of a script 
 
 ```sh
 [dependencies]
-rust_iso639 = "0.1.0"
+rust_iso639 = "0.0.1"
 ```
 
 ## License
@@ -45,73 +45,47 @@ See [using](https://crates.io/crates/rust_iso3166) section of the documentation.
 Quick guide:
 
 ```rust
-let lang = rust_iso639::from_alpha2("AU");
-let country = rust_iso639::from_alpha3("AUS");
-let country = rust_iso639::from_numeric(036);
-let country = rust_iso639::from_numeric_str("036");
+let lang = rust_iso639::from_code("zh");
+let country = rust_iso639::from_code_2t("zho");
+let country = rust_iso639::from_code_2b("chi");
+let country = rust_iso639::from_code_3("zho");
 
-println!("{:?}", rust_iso639::ALL);
+println!("{:?}", rust_iso639::ALL_CODE);
+println!("{:?}", rust_iso639::ALL_CODE_2T);
+println!("{:?}", rust_iso639::ALL_CODE_2B);
+println!("{:?}", rust_iso639::ALL_CODE_3);
 
-println!("{:?}", rust_iso639::ALL_ALPHA2);
-println!("{:?}", rust_iso639::ALL_ALPHA3);
-println!("{:?}", rust_iso639::ALL_NAME);
-println!("{:?}", rust_iso639::ALL_NUMERIC);
-println!("{:?}", rust_iso639::ALL_NUMERIC_STR);
+println!("{:?}", rust_iso639::CODE_MAP);
+println!("{:?}", rust_iso639::CODE_2T_MAP);
+println!("{:?}", rust_iso639::CODE_2B_MAP);
+println!("{:?}", rust_iso639::CODE_3_MAP);
 
-println!("{:?}", rust_iso639::NUMERIC_MAP);
-println!("{:?}", rust_iso639::ALPHA3_MAP);
-println!("{:?}", rust_iso639::ALPHA2_MAP);
-
-// for ISO 3166-2
-let country = rust_iso3166::from_alpha2("GB").unwrap();
-let subdivisions = country.subdivisions();
-assert!(subdivisions.unwrap().len() > 0);
-let country = rust_iso3166::iso3166_2::from_code("GB-EDH");
-assert_eq!("Edinburgh, City of", country.unwrap().name);
-
-// for ISO 3166-3
-let sub = rust_iso3166::iso3166_3::from_code("PZPA");
-assert_eq!("Panama Canal Zone", sub.unwrap().name);
 ```
 
 Data sample:
 
 ```rust
-CountryCode {
-    name: "Australia",
-    alpha2: "AU",
-    alpha3: "AUS",
-    numeric: 36
+pub struct LanguageCode<'a> {
+    ///ISO Language Name
+    pub name: &'static str,
+    ///639-1
+    pub code: &'static str,
+    ///639-2/T
+    pub code_2t: &'static str,
+    ///639-2/B
+    pub code_2b: &'static str,
+    //639-3 Macrolanguage
+    pub code_3: &'static str,
+
+    pub individual_languages: &'a [IndividualLanguages],
 }
 
- iso3166_2::Subdivision {
-    name: "Bādghīs",
-    code: "AF-BDG",
-    subdivision_type: "Province",
-    country_name: "Afghanistan",
-    country_code: "AF",
-    region_code: "AF-BDG",
-}
-
-iso3166_3::CountryCode3 {
-    code: "BQAQ",
-    name: "British Antarctic Territory",
-    former: CountryCode {
-        name: "British Antarctic Territory",
-        alpha2: "BQ",
-        alpha3: "ATB",
-        numeric: 0
-    },
-    new_countries: [
-        CountryCode {
-            name: "Antarctica",
-            alpha2: "AQ",
-            alpha3: "ATA",
-            numeric: 010
-        },
-    ],
-    validity: [1974,1979],
-    desc: "Merged into Antarctica",
+#[derive(Debug, Copy, Clone)]
+pub struct IndividualLanguages {
+    ///Name
+    pub name: &'static str,
+    ///Code
+    pub code: &'static str,
 }
 ```
 
