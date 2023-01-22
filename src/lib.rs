@@ -5,30 +5,39 @@ mod tests {
 
     #[test]
     fn test_from_code() {
-        // let l: crate::LanguageCode = ZH;
         let l = crate::from_code("zh");
-        print!("from_code result {:?}", l)
+        print!("test_from_code result {:?}", l)
     }
 
     #[test]
     fn test_from_code_2t() {
-        // let l: crate::LanguageCode = ZH;
-        let l = crate::from_code_2t("zhi");
-        print!("from_code result {:?}", l)
+        let l = crate::from_code_2t("zho");
+        print!("test_from_code_2t result {:?}", l)
     }
 
     #[test]
     fn test_from_code_2b() {
-        // let l: crate::LanguageCode = ZH;
-        let l = crate::from_code_2b("zhi");
-        print!("from_code result {:?}", l)
+        let l = crate::from_code_2b("chi");
+        print!("test_from_code_2b result {:?}", l)
     }
 
     #[test]
     fn test_from_code_3() {
-        // let l: crate::LanguageCode = ZH;
-        let l = crate::from_code_3("zhi");
-        print!("from_code result {:?}", l)
+        let l = crate::from_code_3("zho");
+        print!("test_from_code_3 result {:?}", l)
+    }
+
+    #[test]
+    fn test_all() {
+        println!("{:?}", crate::ALL_CODE);
+        println!("{:?}", crate::ALL_CODE_2T);
+        println!("{:?}", crate::ALL_CODE_2B);
+        println!("{:?}", crate::ALL_CODE_3);
+
+        println!("{:?}", crate::CODE_MAP);
+        println!("{:?}", crate::CODE_2T_MAP);
+        println!("{:?}", crate::CODE_2B_MAP);
+        println!("{:?}", crate::CODE_3_MAP);
     }
 }
 

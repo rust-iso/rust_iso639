@@ -46,9 +46,9 @@ Quick guide:
 
 ```rust
 let lang = rust_iso639::from_code("zh");
-let country = rust_iso639::from_code_2t("zho");
-let country = rust_iso639::from_code_2b("chi");
-let country = rust_iso639::from_code_3("zho");
+let lang = rust_iso639::from_code_2t("zho");
+let lang = rust_iso639::from_code_2b("chi");
+let lang = rust_iso639::from_code_3("zho");
 
 println!("{:?}", rust_iso639::ALL_CODE);
 println!("{:?}", rust_iso639::ALL_CODE_2T);
