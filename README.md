@@ -99,3 +99,5 @@ pub struct IndividualLanguages {
 - [Codes for the representation of names of scripts](https://en.wikipedia.org/wiki/ISO_15924)
 - https://www.zhihu.com/question/21980689
 - https://en.wikipedia.org/wiki/Language_code
+- https://iso639-3.sil.org/code_tables/download_tables
+- http://unicode.org/iso15924/
