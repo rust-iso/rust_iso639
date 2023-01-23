@@ -5,7 +5,7 @@ edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
-keywords=["ISO639", "ISO639-1", "ISO639-2", "ISO639-3","ISO15924","bcp47","bcp-47","RFC-5646", "RFC5646"]
+keywords=["ISO639", "ISO15924","bcp47", "RFC5646"]
 
 [lib]
 crate-type = ["cdylib", "rlib"]
