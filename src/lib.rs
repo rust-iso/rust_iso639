@@ -5,7 +5,7 @@ mod tests {
 
     #[test]
     fn test_from_code_1() {
-        let l = crate::from_code("zh");
+        let l = crate::from_code_1("zh");
         print!("test_from_code result {:?}", l)
     }
 
