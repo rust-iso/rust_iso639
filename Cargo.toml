@@ -5,6 +5,14 @@ edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
+description="ISO 639 is a standardized nomenclature used to classify languages. Each language is assigned a two-letter (639-1) and three-letter (639-2 and 639-3) lowercase abbreviation, amended in later versions of the nomenclature."
+repository="https://github.com/rust-iso/rust_iso639"
+license="Apache-2.0"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+exclude = ["src/*.py"]
+documentation = "https://docs.rs/rust_iso639/"
+
+
 keywords=["ISO639", "ISO15924","bcp47", "RFC5646"]
 
 [lib]
