@@ -1,6 +1,6 @@
 [package]
 name = "rust_iso639"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
@@ -13,7 +13,7 @@ exclude = ["src/*.py"]
 documentation = "https://docs.rs/rust_iso639/"
 
 
-keywords=["ISO639", "ISO15924","bcp47", "RFC5646"]
+keywords=["ISO639", "ISO639-1","ISO639-2", "ISO639-3"]
 
 [lib]
 crate-type = ["cdylib", "rlib"]
