@@ -45,21 +45,22 @@ See [using](https://crates.io/crates/rust_iso3166) section of the documentation.
 Quick guide:
 
 ```rust
-let lang = rust_iso639::from_code("zh");
+let lang = rust_iso639::from_code_1("zh");
 let lang = rust_iso639::from_code_2t("zho");
 let lang = rust_iso639::from_code_2b("chi");
 let lang = rust_iso639::from_code_3("zho");
 
-println!("{:?}", rust_iso639::ALL_CODE);
-println!("{:?}", rust_iso639::ALL_CODE_2T);
-println!("{:?}", rust_iso639::ALL_CODE_2B);
-println!("{:?}", rust_iso639::ALL_CODE_3);
+println!("{:?}", rust_iso639::ALL);
+println!("{:?}", rust_iso639::ALL_1);
+println!("{:?}", rust_iso639::ALL_2B);
+println!("{:?}", rust_iso639::ALL_2T);
+println!("{:?}", rust_iso639::ALL_3);
 
-println!("{:?}", rust_iso639::CODE_MAP);
-println!("{:?}", rust_iso639::CODE_2T_MAP);
-println!("{:?}", rust_iso639::CODE_2B_MAP);
-println!("{:?}", rust_iso639::CODE_3_MAP);
-
+println!("{:?}", rust_iso639::ALL_MAP);
+println!("{:?}", rust_iso639::ALL_1_MAP);
+println!("{:?}", rust_iso639::ALL_2B_MAP);
+println!("{:?}", rust_iso639::ALL_2T_MAP);
+println!("{:?}", rust_iso639::ALL_3_MAP);
 ```
 
 Data sample:
