@@ -1,0 +1,366 @@
+|-
+|id="ab"| [[Abkhazian language|Abkhazian]] || <code>{{iso639-1|ab}}</code> || <code>abk</code> || <code>abk</code> || <code>abk</code> || also known as Abkhaz
+|-
+|id="aa"| [[Afar language|Afar]] || <code>{{iso639-1|aa}}</code> || <code>aar</code> || <code>aar</code> || <code>aar</code> ||
+|-
+|id="af"| [[Afrikaans language|Afrikaans]] || <code>{{iso639-1|af}}</code> || <code>afr</code> || <code>afr</code> || <code>afr</code> ||
+|-
+|id="ak"| [[Akan language|Akan]] || <code>{{iso639-1|ak}}</code> || <code>aka</code> || <code>aka</code> || <code>aka</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#aka|2]] || [[macrolanguage]], [[Twi language|Twi]] is <code>tw</code>/<code>twi</code>, [[Fanti language|Fanti]] is <code>fat</code>
+|-
+|id="sq"| [[Albanian language|Albanian]] || <code>{{iso639-1|sq}}</code> || <code>sqi</code> || <code>'''alb'''</code> || <code>sqi</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#sqi|4]] || macrolanguage, called "Albanian Phylozone" in {{nowrap|639-6}}
+|-
+|id="am"| [[Amharic language|Amharic]] || <code>{{iso639-1|am}}</code> || <code>amh</code> || <code>amh</code> || <code>amh</code> ||
+|-
+|id="ar"| [[Arabic language|Arabic]] || <code>{{iso639-1|ar}}</code> || <code>ara</code> || <code>ara</code> || <code>ara</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#ara|29]] || macrolanguage, [[Standard Arabic]] is <code>arb</code>
+|-
+|id="an"| [[Aragonese language|Aragonese]] || <code>{{iso639-1|an}}</code> || <code>arg</code> || <code>arg</code> || <code>arg</code> ||
+|-
+|id="hy"| [[Armenian language|Armenian]] || <code>{{iso639-1|hy}}</code> || <code>hye</code> || <code>'''arm'''</code> || <code>hye</code> ||ISO {{nowrap|639-3}} code <code>hye</code> is for [[Eastern Armenian]], <code>hyw</code> is for [[Western Armenian]], and <code>xcl</code> is for [[Classical Armenian]]
+|-
+|id="as"| [[Assamese language|Assamese]] || <code>{{iso639-1|as}}</code> || <code>asm</code> || <code>asm</code> || <code>asm</code> ||
+|-
+|id="av"| [[Avar language|Avaric]] || <code>{{iso639-1|av}}</code> || <code>ava</code> || <code>ava</code> || <code>ava</code> || also known as Avar
+|-
+|id="ae"| [[Avestan language|Avestan]] || <code>{{iso639-1|ae}}</code> || <code>ave</code> || <code>ave</code> || <code>ave</code> || [[ancient languages|ancient]]
+|-
+|id="ay"| [[Aymara language|Aymara]] || <code>{{iso639-1|ay}}</code> || <code>aym</code> || <code>aym</code> || <code>aym</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#aym|2]] || macrolanguage
+|-
+|id="az"| [[Azerbaijani language|Azerbaijani]] || <code>{{iso639-1|az}}</code> || <code>aze</code> || <code>aze</code> || <code>aze</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#aze|2]] || macrolanguage, also known as Azeri
+|-
+|id="bm"| [[Bambara language|Bambara]] || <code>{{iso639-1|bm}}</code> || <code>bam</code> || <code>bam</code> || <code>bam</code> ||
+|-
+|id="ba"| [[Bashkir language|Bashkir]] || <code>{{iso639-1|ba}}</code> || <code>bak</code> || <code>bak</code> || <code>bak</code> ||
+|-
+|id="eu"| [[Basque language|Basque]] || <code>{{iso639-1|eu}}</code> || <code>eus</code> || <code>'''baq'''</code> || <code>eus</code> ||
+|-
+|id="be"| [[Belarusian language|Belarusian]] || <code>{{iso639-1|be}}</code> || <code>bel</code> || <code>bel</code> || <code>bel</code> ||
+|-
+|id="bn"| [[Bengali language|Bengali]] || <code>{{iso639-1|bn}}</code> || <code>ben</code> || <code>ben</code> || <code>ben</code> || also known as Bangla
+|-
+|id="bi"| [[Bislama language|Bislama]] || <code>{{iso639-1|bi}}</code> || <code>bis</code> || <code>bis</code> || <code>bis</code> || Language formed from English and [[Languages of Vanuatu|Vanuatuan languages]], with some French influence.
+|-
+|id="bs"| [[Bosnian language|Bosnian]] || <code>{{iso639-1|bs}}</code> || <code>bos</code> || <code>bos</code> || <code>bos</code> ||
+|-
+|id="br"| [[Breton language|Breton]] || <code>{{iso639-1|br}}</code> || <code>bre</code> || <code>bre</code> || <code>bre</code> ||
+|-
+|id="bg"| [[Bulgarian language|Bulgarian]] || <code>{{iso639-1|bg}}</code> || <code>bul</code> || <code>bul</code> || <code>bul</code> ||
+|-
+|id="my"| [[Burmese language|Burmese]] || <code>{{iso639-1|my}}</code> || <code>mya</code> || <code>'''bur'''</code> || <code>mya</code> || also known as Myanmar
+|-
+|id="ca"| [[Catalan language|Catalan]], Valencian || <code>{{iso639-1|ca}}</code> || <code>cat</code> || <code>cat</code> || <code>cat</code> ||
+|-
+|id="ch"| [[Chamorro language|Chamorro]] || <code>{{iso639-1|ch}}</code> || <code>cha</code> || <code>cha</code> || <code>cha</code> ||
+|-
+|id="ce"| [[Chechen language|Chechen]] || <code>{{iso639-1|ce}}</code> || <code>che</code> || <code>che</code> || <code>che</code> ||
+|-
+|id="ny"| [[Chichewa language|Chichewa]], Chewa, Nyanja || <code>{{iso639-1|ny}}</code> || <code>nya</code> || <code>nya</code> || <code>nya</code> ||
+|-
+|id="zh"| [[Chinese language|Chinese]] || <code>{{iso639-1|zh}}</code> || <code>zho</code> || <code>'''chi'''</code> || <code>zho</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#zho|16]] || macrolanguage
+|-
+|id="cu"| [[Church Slavonic|Church&nbsp;Slavonic]], Old Slavonic, [[Old Church Slavonic|Old&nbsp;Church&nbsp;Slavonic]] || <code>{{iso639-1|cu}}</code> || <code>chu</code> || <code>chu</code> || <code>chu</code> || [[ancient languages|ancient]], in use by the [[Eastern Orthodox Church]]
+|-
+|id="cv"| [[Chuvash language|Chuvash]] || <code>{{iso639-1|cv}}</code> || <code>chv</code> || <code>chv</code> || <code>chv</code> ||
+|-
+|id="kw"| [[Cornish language|Cornish]] || <code>{{iso639-1|kw}}</code> || <code>cor</code> || <code>cor</code> || <code>cor</code> ||
+|-
+|id="co"| [[Corsican language|Corsican]] || <code>{{iso639-1|co}}</code> || <code>cos</code> || <code>cos</code> || <code>cos</code> ||
+|-
+|id="cr"| [[Cree language|Cree]] || <code>{{iso639-1|cr}}</code> || <code>cre</code> || <code>cre</code> || <code>cre</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#cre|6]] || macrolanguage
+|-
+|id="hr"| [[Croatian language|Croatian]] || <code>{{iso639-1|hr}}</code> || <code>hrv</code> || <code>hrv</code> || <code>hrv</code> ||
+|-
+|id="cs"| [[Czech language|Czech]] || <code>{{iso639-1|cs}}</code> || <code>ces</code> || <code>'''cze'''</code> || <code>ces</code> ||
+|-
+|id="da"| [[Danish language|Danish]] || <code>{{iso639-1|da}}</code> || <code>dan</code> || <code>dan</code> || <code>dan</code> ||
+|-
+|id="dv"| [[Dhivehi language|Divehi]], Dhivehi, Maldivian || <code>{{iso639-1|dv}}</code> || <code>div</code> || <code>div</code> || <code>div</code> ||
+|-
+|id="nl"| [[Dutch language|Dutch]], [[Flemish]] || <code>{{iso639-1|nl}}</code> || <code>nld</code> || <code>'''dut'''</code> || <code>nld</code> || Flemish is not to be confused with the closely related [[West Flemish]] which is referred to as ''Vlaams'' (Dutch for "Flemish") in ISO {{nowrap|639-3}} and has the [https://iso639-3.sil.org/code/vls ISO {{nowrap|639-3}} code <code>vls</code>]
+|-
+|id="dz"| [[Dzongkha language|Dzongkha]] || <code>{{iso639-1|dz}}</code> || <code>dzo</code> || <code>dzo</code> || <code>dzo</code> ||
+|-
+|id="en"| [[English language|English]] || <code>{{iso639-1|en}}</code> || <code>eng</code> || <code>eng</code> || <code>eng</code> ||
+|-
+|id="eo"| [[Esperanto]] || <code>{{iso639-1|eo}}</code> || <code>epo</code> || <code>epo</code> || <code>epo</code> || [[Constructed languages|constructed]], initially by L.L. Zamenhof in 1887
+|-
+|id="et"| [[Estonian language|Estonian]] || <code>{{iso639-1|et}}</code> || <code>est</code> || <code>est</code> || <code>est</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#est|2]] || macrolanguage
+|-
+|id="ee"| [[Ewe language|Ewe]] || <code>{{iso639-1|ee}}</code> || <code>ewe</code> || <code>ewe</code> || <code>ewe</code> ||
+|-
+|id="fo"| [[Faroese language|Faroese]] || <code>{{iso639-1|fo}}</code> || <code>fao</code> || <code>fao</code> || <code>fao</code> ||
+|-
+|id="fj"| [[Fijian language|Fijian]] || <code>{{iso639-1|fj}}</code> || <code>fij</code> || <code>fij</code> || <code>fij</code> ||
+|-
+|id="fi"| [[Finnish language|Finnish]] || <code>{{iso639-1|fi}}</code> || <code>fin</code> || <code>fin</code> || <code>fin</code> ||
+|-
+|id="fr"| [[French language|French]] || <code>{{iso639-1|fr}}</code> || <code>fra</code> || <code>'''fre'''</code> || <code>fra</code> ||
+|-
+|id="fy"| [[West Frisian language|Western Frisian]] || <code>{{iso639-1|fy}}</code> || <code>fry</code> || <code>fry</code> || <code>fry</code> || also known as Frisian
+|-
+|id="ff"| [[Fulah language|Fulah]] || <code>{{iso639-1|ff}}</code> || <code>ful</code> || <code>ful</code> || <code>ful</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#ful|9]] || macrolanguage, also known as Fula
+|-
+|id="gd"| [[Scottish Gaelic|Gaelic]], Scottish Gaelic || <code>{{iso639-1|gd}}</code> || <code>gla</code> || <code>gla</code> || <code>gla</code> ||
+|-
+|id="gl"| [[Galician language|Galician]] || <code>{{iso639-1|gl}}</code> || <code>glg</code> || <code>glg</code> || <code>glg</code> ||
+|-
+|id="lg"| [[Ganda language|Ganda]] || <code>{{iso639-1|lg}}</code> || <code>lug</code> || <code>lug</code> || <code>lug</code> ||
+|-
+|id="ka"| [[Georgian language|Georgian]] || <code>{{iso639-1|ka}}</code> || <code>kat</code> || <code>'''geo'''</code> || <code>kat</code> ||
+|-
+|id="de"| [[German language|German]] || <code>{{iso639-1|de}}</code> || <code>deu</code> || <code>'''ger'''</code> || <code>deu</code> ||
+|-
+|id="el"| [[Greek language|Greek]], Modern (1453–) || <code>{{iso639-1|el}}</code> || <code>ell</code> || <code>'''gre'''</code> || <code>ell</code> || for [[Ancient Greek]], use the [[ISO 639-3]] code {{code|grc}}
+|-
+|id="kl"| [[Greenlandic language|Kalaallisut]], Greenlandic || <code>{{iso639-1|kl}}</code> || <code>kal</code> || <code>kal</code> || <code>kal</code> ||
+|-
+|id="gn"| [[Guarani language|Guarani]] || <code>{{iso639-1|gn}}</code> || <code>grn</code> || <code>grn</code> || <code>grn</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#grn|5]] || macrolanguage
+|-
+|id="gu"| [[Gujarati language|Gujarati]] || <code>{{iso639-1|gu}}</code> || <code>guj</code> || <code>guj</code> || <code>guj</code> ||
+|-
+|id="ht"| [[Haitian Creole language|Haitian]], Haitian Creole || <code>{{iso639-1|ht}}</code> || <code>hat</code> || <code>hat</code> || <code>hat</code> ||
+|-
+|id="ha"| [[Hausa language|Hausa]] || <code>{{iso639-1|ha}}</code> || <code>hau</code> || <code>hau</code> || <code>hau</code> ||
+|-
+|id="he"| [[Hebrew language|Hebrew]] || <code>{{iso639-1|he}}</code> || <code>heb</code> || <code>heb</code> || <code>heb</code> || Modern Hebrew. Code changed in 1989 from original ISO {{nowrap|639:1988}}, <code>iw</code>.<ref name="coverpage">{{Cite web|url=https://xml.coverpages.org/iso639a.html|title=Code for the Representation of the Names of Languages. From ISO 639, revised 1989.|last=Cover|first=Robin|website=xml.coverpages.org|access-date=2018-03-21|archive-date=2018-04-04|archive-url=https://web.archive.org/web/20180404143824/https://xml.coverpages.org/iso639a.html|url-status=live}}</ref>
+|-
+|id="hz"| [[Herero language|Herero]] || <code>{{iso639-1|hz}}</code> || <code>her</code> || <code>her</code> || <code>her</code> ||
+|-
+|id="hi"| [[Hindi]] || <code>{{iso639-1|hi}}</code> || <code>hin</code> || <code>hin</code> || <code>hin</code> ||
+|-
+|id="ho"| [[Hiri Motu language|Hiri Motu]] || <code>{{iso639-1|ho}}</code> || <code>hmo</code> || <code>hmo</code> || <code>hmo</code> ||
+|-
+|id="hu"| [[Hungarian language|Hungarian]] || <code>{{iso639-1|hu}}</code> || <code>hun</code> || <code>hun</code> || <code>hun</code> ||
+|-
+|id="is"| [[Icelandic language|Icelandic]] || <code>{{iso639-1|is}}</code> || <code>isl</code> || <code>'''ice'''</code> || <code>isl</code> ||
+|-
+|id="io"| [[Ido (language)|Ido]] || <code>{{iso639-1|io}}</code> || <code>ido</code> || <code>ido</code> || <code>ido</code> || constructed by De Beaufront, 1907, as variation of Esperanto
+|-
+|id="ig"| [[Igbo language|Igbo]] || <code>{{iso639-1|ig}}</code> || <code>ibo</code> || <code>ibo</code> || <code>ibo</code> ||
+|-
+|id="id"| [[Indonesian language|Indonesian]] || <code>{{iso639-1|id}}</code> || <code>ind</code> || <code>ind</code> || <code>ind</code> || covered by macrolanguage <code>ms</code>/<code>msa</code>. Changed in 1989 from original ISO {{nowrap|639:1988}}, <code>in</code>.<ref name="coverpage"/>
+|-
+|id="ia"| [[Interlingua]] (International Auxiliary Language Association) || <code>{{iso639-1|ia}}</code> || <code>ina</code> || <code>ina</code> || <code>ina</code> || constructed by the [[International Auxiliary Language Association]]
+|-
+|id="ie"| [[Interlingue]], Occidental || <code>{{iso639-1|ie}}</code> || <code>ile</code> || <code>ile</code> || <code>ile</code> || constructed by [[Edgar de Wahl]], first published in 1922
+|-
+|id="iu"| [[Inuktitut]] || <code>{{iso639-1|iu}}</code> || <code>iku</code> || <code>iku</code> || <code>iku</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#iku|2]] || macrolanguage
+|-
+|id="ik"| [[Inupiaq language|Inupiaq]] || <code>{{iso639-1|ik}}</code> || <code>ipk</code> || <code>ipk</code> || <code>ipk</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#ipk|2]] || macrolanguage
+|-
+|id="ga"| [[Irish language|Irish]] || <code>{{iso639-1|ga}}</code> || <code>gle</code> || <code>gle</code> || <code>gle</code> ||
+|-
+|id="it"| [[Italian language|Italian]] || <code>{{iso639-1|it}}</code> || <code>ita</code> || <code>ita</code> || <code>ita</code> ||
+|-
+|id="ja"| [[Japanese language|Japanese]] || <code>{{iso639-1|ja}}</code> || <code>jpn</code> || <code>jpn</code> || <code>jpn</code> ||
+|-
+|id="jv"| [[Javanese language|Javanese]] || <code>{{iso639-1|jv}}</code> || <code>jav</code> || <code>jav</code> || <code>jav</code> ||
+|-
+|id="kn"| [[Kannada language|Kannada]] || <code>{{iso639-1|kn}}</code> || <code>kan</code> || <code>kan</code> || <code>kan</code> ||
+|-
+|id="kr"| [[Kanuri language|Kanuri]] || <code>{{iso639-1|kr}}</code> || <code>kau</code> || <code>kau</code> || <code>kau</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#kau|3]] || macrolanguage
+|-
+|id="ks"| [[Kashmiri language|Kashmiri]] || <code>{{iso639-1|ks}}</code> || <code>kas</code> || <code>kas</code> || <code>kas</code> ||
+|-
+|id="kk"| [[Kazakh language|Kazakh]] || <code>{{iso639-1|kk}}</code> || <code>kaz</code> || <code>kaz</code> || <code>kaz</code> ||
+|-
+|id="km"| [[Central Khmer language|Central Khmer]] || <code>{{iso639-1|km}}</code> || <code>khm</code> || <code>khm</code> || <code>khm</code> || also known as Khmer or Cambodian
+|-
+|id="ki"| [[Gikuyu language|Kikuyu]], Gikuyu || <code>{{iso639-1|ki}}</code> || <code>kik</code> || <code>kik</code> || <code>kik</code> ||
+|-
+|id="rw"| [[Kinyarwanda]] || <code>{{iso639-1|rw}}</code> || <code>kin</code> || <code>kin</code> || <code>kin</code> ||
+|-
+|id="ky"| [[Kirghiz language|Kirghiz]], Kyrgyz || <code>{{iso639-1|ky}}</code> || <code>kir</code> || <code>kir</code> || <code>kir</code> ||
+|-
+|id="kv"| [[Komi language|Komi]] || <code>{{iso639-1|kv}}</code> || <code>kom</code> || <code>kom</code> || <code>kom</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#kom|2]] || macrolanguage
+|-
+|id="kg"| [[Kongo language|Kongo]] || <code>{{iso639-1|kg}}</code> || <code>kon</code> || <code>kon</code> || <code>kon</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#kon|3]] || macrolanguage
+|-
+|id="ko"| [[Korean language|Korean]] || <code>{{iso639-1|ko}}</code> || <code>kor</code> || <code>kor</code> || <code>kor</code> ||
+|-
+|id="kj"| [[Kuanyama language|Kuanyama]], Kwanyama || <code>{{iso639-1|kj}}</code> || <code>kua</code> || <code>kua</code> || <code>kua</code> ||
+|-
+|id="ku"| [[Kurdish language|Kurdish]] || <code>{{iso639-1|ku}}</code> || <code>kur</code> || <code>kur</code> || <code>kur</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#kur|3]] || macrolanguage
+|-
+|id="lo"| [[Lao language|Lao]] || <code>{{iso639-1|lo}}</code> || <code>lao</code> || <code>lao</code> || <code>lao</code> ||
+|-
+|id="la"| [[Latin]] || <code>{{iso639-1|la}}</code> || <code>lat</code> || <code>lat</code> || <code>lat</code> || ancient
+|-
+|id="lv"| [[Latvian language|Latvian]] || <code>{{iso639-1|lv}}</code> || <code>lav</code> || <code>lav</code> || <code>lav</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#lav|2]] || macrolanguage
+|-
+|id="li"| [[Limburgan language|Limburgan]], Limburger, Limburgish || <code>{{iso639-1|li}}</code> || <code>lim</code> || <code>lim</code> || <code>lim</code> ||
+|-
+|id="ln"| [[Lingala language|Lingala]] || <code>{{iso639-1|ln}}</code> || <code>lin</code> || <code>lin</code> || <code>lin</code> ||
+|-
+|id="lt"| [[Lithuanian language|Lithuanian]] || <code>{{iso639-1|lt}}</code> || <code>lit</code> || <code>lit</code> || <code>lit</code> ||
+|-
+|id="lu"| [[Luba-Katanga language|Luba-Katanga]] || <code>{{iso639-1|lu}}</code> || <code>lub</code> || <code>lub</code> || <code>lub</code> || also known as Luba-Shaba
+|-
+|id="lb"| [[Luxembourgish language|Luxembourgish]], Letzeburgesch || <code>{{iso639-1|lb}}</code> || <code>ltz</code> || <code>ltz</code> || <code>ltz</code> ||
+|-
+|id="mk"| [[Macedonian language|Macedonian]] || <code>{{iso639-1|mk}}</code> || <code>mkd</code> || <code>'''mac'''</code> || <code>mkd</code> ||
+|-
+|id="mg"| [[Malagasy language|Malagasy]] || <code>{{iso639-1|mg}}</code> || <code>mlg</code> || <code>mlg</code> || <code>mlg</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#mlg|11]] || macrolanguage
+|-
+|id="ms"| [[Malay language|Malay]] || <code>{{iso639-1|ms}}</code> || <code>msa</code> || <code>'''may'''</code> || <code>msa</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#msa|36]] || macrolanguage, [[Malaysian language|Standard Malay]] is <code>zsm</code>, [[Indonesian language|Indonesian]] is <code>id</code>/<code>ind</code>
+|-
+|id="ml"| [[Malayalam language|Malayalam]] || <code>{{iso639-1|ml}}</code> || <code>mal</code> || <code>mal</code> || <code>mal</code> ||
+|-
+|id="mt"| [[Maltese language|Maltese]] || <code>{{iso639-1|mt}}</code> || <code>mlt</code> || <code>mlt</code> || <code>mlt</code> ||
+|-
+|id="gv"| [[Manx language|Manx]] || <code>{{iso639-1|gv}}</code> || <code>glv</code> || <code>glv</code> || <code>glv</code> ||
+|-
+|id="mi"| [[Māori language|Maori]] || <code>{{iso639-1|mi}}</code> || <code>mri</code> || <code>'''mao'''</code> || <code>mri</code> || also known as Māori
+|-
+|id="mr"| [[Marathi language|Marathi]] || <code>{{iso639-1|mr}}</code> || <code>mar</code> || <code>mar</code> || <code>mar</code> || also known as Marāṭhī
+|-
+|id="mh"| [[Marshallese language|Marshallese]] || <code>{{iso639-1|mh}}</code> || <code>mah</code> || <code>mah</code> || <code>mah</code> ||
+|-
+|id="mn"| [[Mongolian language|Mongolian]] || <code>{{iso639-1|mn}}</code> || <code>mon</code> || <code>mon</code> || <code>mon</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#mon|2]] || macrolanguage
+|-
+|id="na"| [[Nauru language|Nauru]] || <code>{{iso639-1|na}}</code> || <code>nau</code> || <code>nau</code> || <code>nau</code> || also known as Nauruan
+|-
+|id="nv"| [[Navajo language|Navajo]], Navaho || <code>{{iso639-1|nv}}</code> || <code>nav</code> || <code>nav</code> || <code>nav</code> ||
+|-
+|id="nd"| [[North Ndebele language|North Ndebele]] || <code>{{iso639-1|nd}}</code> || <code>nde</code> || <code>nde</code> || <code>nde</code> || also known as Northern Ndebele
+|-
+|id="nr"| [[South Ndebele language|South Ndebele]] || <code>{{iso639-1|nr}}</code> || <code>nbl</code> || <code>nbl</code> || <code>nbl</code> || also known as Southern Ndebele
+|-
+|id="ng"| [[Ndonga]] || <code>{{iso639-1|ng}}</code> || <code>ndo</code> || <code>ndo</code> || <code>ndo</code> ||
+|-
+|id="ne"| [[Nepali language|Nepali]] || <code>{{iso639-1|ne}}</code> || <code>nep</code> || <code>nep</code> || <code>nep</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#nep|2]] || macrolanguage
+|-
+|id="no"| [[Norwegian language|Norwegian]] || <code>{{iso639-1|no}}</code> || <code>nor</code> || <code>nor</code> || <code>nor</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#nor|2]] || macrolanguage, [[Bokmål]] is <code>nb</code>/<code>nob</code>, [[Nynorsk]] is <code>nn</code>/<code>nno</code>
+|-
+|id="nb"| [[Bokmål|Norwegian Bokmål]] || <code>{{iso639-1|nb}}</code> || <code>nob</code> || <code>nob</code> || <code>nob</code> || covered by macrolanguage <code>no</code>/<code>nor</code>
+|-
+|id="nn"| [[Nynorsk|Norwegian Nynorsk]] || <code>{{iso639-1|nn}}</code> || <code>nno</code> || <code>nno</code> || <code>nno</code> || covered by macrolanguage <code>no</code>/<code>nor</code>
+|-
+|id="ii"| [[Sichuan Yi language|Sichuan Yi]], Nuosu || <code>{{iso639-1|ii}}</code> || <code>iii</code> || <code>iii</code> || <code>iii</code> || standard form of the [[Yi language]]s
+|-
+|id="oc"| [[Occitan language|Occitan]] || <code>{{iso639-1|oc}}</code> || <code>oci</code> || <code>oci</code> || <code>oci</code> ||
+|-
+|id="oj"| [[Ojibwa language|Ojibwa]] || <code>{{iso639-1|oj}}</code> || <code>oji</code> || <code>oji</code> || <code>oji</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#oji|7]] || macrolanguage, also known as Ojibwe
+|-
+|id="or"| [[Oriya language|Oriya]] || <code>{{iso639-1|or}}</code> || <code>ori</code> || <code>ori</code> || <code>ori</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#ori|2]] || macrolanguage, also known as Odia
+|-
+|id="om"| [[Oromo language|Oromo]] || <code>{{iso639-1|om}}</code> || <code>orm</code> || <code>orm</code> || <code>orm</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#orm|4]] || macrolanguage
+|-
+|id="os"| [[Ossetian language|Ossetian]], Ossetic || <code>{{iso639-1|os}}</code> || <code>oss</code> || <code>oss</code> || <code>oss</code> ||
+|-
+|id="pi"| [[Pali language|Pali]] || <code>{{iso639-1|pi}}</code> || <code>pli</code> || <code>pli</code> || <code>pli</code> || ancient, also known as Pāli
+|-
+|id="ps"| [[Pashto language|Pashto]], Pushto || <code>{{iso639-1|ps}}</code> || <code>pus</code> || <code>pus</code> || <code>pus</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#pus|3]] || macrolanguage
+|-
+|id="fa"| [[Persian language|Persian]] || <code>{{iso639-1|fa}}</code> || <code>fas</code> || <code>'''per'''</code> || <code>fas</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#fas|2]] || macrolanguage, also known as Farsi
+|-
+|id="pl"| [[Polish language|Polish]] || <code>{{iso639-1|pl}}</code> || <code>pol</code> || <code>pol</code> || <code>pol</code> ||
+|-
+|id="pt"| [[Portuguese language|Portuguese]] || <code>{{iso639-1|pt}}</code> || <code>por</code> || <code>por</code> || <code>por</code> ||
+|-
+|id="pa"| [[Punjabi language|Punjabi]], Panjabi || <code>{{iso639-1|pa}}</code> || <code>pan</code> || <code>pan</code> || <code>pan</code> ||
+|-
+|id="qu"| [[Quechua language|Quechua]] || <code>{{iso639-1|qu}}</code> || <code>que</code> || <code>que</code> || <code>que</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#que|43]] || macrolanguage
+|-
+|id="ro"| [[Romanian language|Romanian]], [[Moldovan language|Moldavian]], Moldovan || <code>{{iso639-1|ro}}</code> || <code>ron</code> || <code>'''rum'''</code> || <code>ron</code> || the identifiers <code>mo</code> and <code>mol</code> for Moldavian are deprecated. They will not be assigned to different items, and recordings using these identifiers will not be invalid.
+|-
+|id="rm"| [[Romansh language|Romansh]] || <code>{{iso639-1|rm}}</code> || <code>roh</code> || <code>roh</code> || <code>roh</code> ||
+|-
+|id="rn"| [[Rundi language|Rundi]] || <code>{{iso639-1|rn}}</code> || <code>run</code> || <code>run</code> || <code>run</code> || also known as Kirundi
+|-
+|id="ru"| [[Russian language|Russian]] || <code>{{iso639-1|ru}}</code> || <code>rus</code> || <code>rus</code> || <code>rus</code> ||
+|-
+|id="se"| [[Northern Sami]] || <code>{{iso639-1|se}}</code> || <code>sme</code> || <code>sme</code> || <code>sme</code> ||
+|-
+|id="sm"| [[Samoan language|Samoan]] || <code>{{iso639-1|sm}}</code> || <code>smo</code> || <code>smo</code> || <code>smo</code> ||
+|-
+|id="sg"| [[Sango language|Sango]] || <code>{{iso639-1|sg}}</code> || <code>sag</code> || <code>sag</code> || <code>sag</code> ||
+|-
+|id="sa"| [[Sanskrit]] || <code>{{iso639-1|sa}}</code> || <code>san</code> || <code>san</code> || <code>san</code> || ancient
+|-
+|id="sc"| [[Sardinian language|Sardinian]] || <code>{{iso639-1|sc}}</code> || <code>srd</code> || <code>srd</code> || <code>srd</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#srd|4]] || macrolanguage
+|-
+|id="sr"| [[Serbian language|Serbian]] || <code>{{iso639-1|sr}}</code> || <code>srp</code> || <code>srp</code> || <code>srp</code> || the ISO {{nowrap|639-2/T}} code <code>srp</code> deprecated the ISO {{nowrap|639-2/B}} code <code>scc</code><ref name="LOC Changes">{{cite web|title=Code Changes|url=https://www.loc.gov/standards/iso639-2/php/code_changes.php|work=ISO 639-2|publisher=Library of Congress|access-date=31 May 2012|archive-date=28 April 2019|archive-url=https://web.archive.org/web/20190428235442/https://www.loc.gov/standards/iso639-2/php/code_changes.php|url-status=live}}</ref>
+|-
+|id="sn"| [[Shona language|Shona]] || <code>{{iso639-1|sn}}</code> || <code>sna</code> || <code>sna</code> || <code>sna</code> ||
+|-
+|id="sd"| [[Sindhi language|Sindhi]] || <code>{{iso639-1|sd}}</code> || <code>snd</code> || <code>snd</code> || <code>snd</code> ||
+|-
+|id="si"| [[Sinhala language|Sinhala]], Sinhalese || <code>{{iso639-1|si}}</code> || <code>sin</code> || <code>sin</code> || <code>sin</code> ||
+|-
+|id="sk"| [[Slovak language|Slovak]] || <code>{{iso639-1|sk}}</code> || <code>slk</code> || <code>'''slo'''</code> || <code>slk</code> ||
+|-
+|id="sl"| [[Slovene language|Slovenian]] || <code>{{iso639-1|sl}}</code> || <code>slv</code> || <code>slv</code> || <code>slv</code> || also known as Slovene
+|-
+|id="so"| [[Somali language|Somali]] || <code>{{iso639-1|so}}</code> || <code>som</code> || <code>som</code> || <code>som</code> ||
+|-
+|id="st"| [[Sotho language|Southern Sotho]] || <code>{{iso639-1|st}}</code> || <code>sot</code> || <code>sot</code> || <code>sot</code> ||
+|-
+|id="es"| [[Spanish language|Spanish]], Castilian || <code>{{iso639-1|es}}</code> || <code>spa</code> || <code>spa</code> || <code>spa</code> ||
+|-
+|id="su"| [[Sundanese language|Sundanese]] || <code>{{iso639-1|su}}</code> || <code>sun</code> || <code>sun</code> || <code>sun</code> ||
+|-
+|id="sw"| [[Swahili language|Swahili]] || <code>{{iso639-1|sw}}</code> || <code>swa</code> || <code>swa</code> || <code>swa</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#swa|2]] || macrolanguage
+|-
+|id="ss"| [[Swazi language|Swati]] || <code>{{iso639-1|ss}}</code> || <code>ssw</code> || <code>ssw</code> || <code>ssw</code> || also known as Swazi
+|-
+|id="sv"| [[Swedish language|Swedish]] || <code>{{iso639-1|sv}}</code> || <code>swe</code> || <code>swe</code> || <code>swe</code> ||
+|-
+|id="tl"| [[Tagalog language|Tagalog]] || <code>{{iso639-1|tl}}</code> || <code>tgl</code> || <code>tgl</code> || <code>tgl</code> || note: [[Filipino language|Filipino]] (Pilipino) has the code <code>fil</code>
+|-
+|id="ty"| [[Tahitian language|Tahitian]] || <code>{{iso639-1|ty}}</code> || <code>tah</code> || <code>tah</code> || <code>tah</code> || one of the Reo Mā`ohi (languages of [[French Polynesia]])<ref>{{cite book |last1=Charpentier |first1=Jean-Michel |first2=Alexandre |last2=François |author-link2=Alexandre François (linguist) |year=2015 |title=Atlas Linguistique de Polynésie Française — Linguistic Atlas of French Polynesia |language=fr, en |publisher=Mouton de Gruyter & Université de la Polynésie Française |isbn=978-3-11-026035-9 |ref=atlas |url=https://alex.francois.free.fr/AF-Atlas-blurbs_e.htm |page=106 |access-date=2021-01-22 |archive-date=2019-10-29 |archive-url=https://web.archive.org/web/20191029044127/https://alex.francois.free.fr/AF-Atlas-blurbs_e.htm |url-status=live }}</ref>
+|-
+|id="tg"| [[Tajik language|Tajik]] || <code>{{iso639-1|tg}}</code> || <code>tgk</code> || <code>tgk</code> || <code>tgk</code> ||
+|-
+|id="ta"| [[Tamil language|Tamil]] || <code>{{iso639-1|ta}}</code> || <code>tam</code> || <code>tam</code> || <code>tam</code> ||
+|-
+|id="tt"| [[Tatar language|Tatar]] || <code>{{iso639-1|tt}}</code> || <code>tat</code> || <code>tat</code> || <code>tat</code> ||
+|-
+|id="te"| [[Telugu language|Telugu]] || <code>{{iso639-1|te}}</code> || <code>tel</code> || <code>tel</code> || <code>tel</code> ||
+|-
+|id="th"| [[Thai language|Thai]] || <code>{{iso639-1|th}}</code> || <code>tha</code> || <code>tha</code> || <code>tha</code> ||
+|-
+|id="bo"| [[Standard Tibetan|Tibetan]] || <code>{{iso639-1|bo}}</code> || <code>bod</code> || <code>'''tib'''</code> || <code>bod</code> || also known as Standard Tibetan
+|-
+|id="ti"| [[Tigrinya language|Tigrinya]] || <code>{{iso639-1|ti}}</code> || <code>tir</code> || <code>tir</code> || <code>tir</code> ||
+|-
+|id="to"| [[Tongan language|Tonga]] (Tonga Islands) || <code>{{iso639-1|to}}</code> || <code>ton</code> || <code>ton</code> || <code>ton</code> || also known as Tongan
+|-
+|id="ts"| [[Tsonga language|Tsonga]] || <code>{{iso639-1|ts}}</code> || <code>tso</code> || <code>tso</code> || <code>tso</code> ||
+|-
+|id="tn"| [[Tswana language|Tswana]] || <code>{{iso639-1|tn}}</code> || <code>tsn</code> || <code>tsn</code> || <code>tsn</code> ||
+|-
+|id="tr"| [[Turkish language|Turkish]] || <code>{{iso639-1|tr}}</code> || <code>tur</code> || <code>tur</code> || <code>tur</code> ||
+|-
+|id="tk"| [[Turkmen language|Turkmen]] || <code>{{iso639-1|tk}}</code> || <code>tuk</code> || <code>tuk</code> || <code>tuk</code> ||
+|-
+|id="tw"| [[Twi]] || <code>{{iso639-1|tw}}</code> || <code>twi</code> || <code>twi</code> || <code>twi</code> || covered by macrolanguage <code>ak</code>/<code>aka</code>
+|-
+|id="ug"| [[Uighur language|Uighur]], Uyghur || <code>{{iso639-1|ug}}</code> || <code>uig</code> || <code>uig</code> || <code>uig</code> ||
+|-
+|id="uk"| [[Ukrainian language|Ukrainian]] || <code>{{iso639-1|uk}}</code> || <code>ukr</code> || <code>ukr</code> || <code>ukr</code> ||
+|-
+|id="ur"| [[Urdu]] || <code>{{iso639-1|ur}}</code> || <code>urd</code> || <code>urd</code> || <code>urd</code> ||
+|-
+|id="uz"| [[Uzbek language|Uzbek]] || <code>{{iso639-1|uz}}</code> || <code>uzb</code> || <code>uzb</code> || <code>uzb</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#uzb|2]] || macrolanguage
+|-
+|id="ve"| [[Venda language|Venda]] || <code>{{iso639-1|ve}}</code> || <code>ven</code> || <code>ven</code> || <code>ven</code> ||
+|-
+|id="vi"| [[Vietnamese language|Vietnamese]] || <code>{{iso639-1|vi}}</code> || <code>vie</code> || <code>vie</code> || <code>vie</code> ||
+|-
+|id="vo"| [[Volapük]] || <code>{{iso639-1|vo}}</code> || <code>vol</code> || <code>vol</code> || <code>vol</code> || constructed
+|-
+|id="wa"| [[Walloon language|Walloon]] || <code>{{iso639-1|wa}}</code> || <code>wln</code> || <code>wln</code> || <code>wln</code> ||
+|-
+|id="cy"| [[Welsh language|Welsh]] || <code>{{iso639-1|cy}}</code> || <code>cym</code> || <code>'''wel'''</code> || <code>cym</code> ||
+|-
+|id="wo"| [[Wolof language|Wolof]] || <code>{{iso639-1|wo}}</code> || <code>wol</code> || <code>wol</code> || <code>wol</code> ||
+|-
+|id="xh"| [[Xhosa language|Xhosa]] || <code>{{iso639-1|xh}}</code> || <code>xho</code> || <code>xho</code> || <code>xho</code> ||
+|-
+|id="yi"| [[Yiddish language|Yiddish]] || <code>{{iso639-1|yi}}</code> || <code>yid</code> || <code>yid</code> || <code>yid</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#yid|2]] || macrolanguage. Changed in 1989 from original ISO {{nowrap|639:1988}}, <code>ji</code>.<ref name="coverpage"/>
+|-
+|id="yo"| [[Yoruba language|Yoruba]] || <code>{{iso639-1|yo}}</code> || <code>yor</code> || <code>yor</code> || <code>yor</code> ||
+|-
+|id="za"| [[Zhuang language|Zhuang]], Chuang || <code>{{iso639-1|za}}</code> || <code>zha</code> || <code>zha</code> || <code>zha</code>&nbsp;+&nbsp;[[ISO 639 macrolanguage#zha|16]] || macrolanguage
+|-
+|id="zu"| [[Zulu language|Zulu]] || <code>{{iso639-1|zu}}</code> || <code>zul</code> || <code>zul</code> || <code>zul</code> ||

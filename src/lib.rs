@@ -1,4 +1,8 @@
 use phf::{phf_map, Map};
+#[cfg(target_arch = "wasm32")]
+use wasm_bindgen::prelude::*;
+#[cfg(target_arch = "wasm32")]
+use js_sys::Array;
 
 #[cfg(test)]
 mod tests {
@@ -45,8 +49,25 @@ mod tests {
     }
 }
 
+#[cfg(target_arch = "wasm32")]
+#[wasm_bindgen]
 #[derive(Debug, Copy, Clone, PartialEq, Eq, Hash)]
+pub struct LanguageCode {
+    ///ISO Language Name
+    name: &'static str,
+    ///639-1
+    code: &'static str,
+    ///639-2/T
+    code_2t: &'static str,
+    ///639-2/B
+    code_2b: &'static str,
+    //639-3 Macrolanguage
+    code_3: &'static str,
+    individual_languages: &'static[IndividualLanguages],
+}
 
+#[cfg(not(target_arch = "wasm32"))]
+#[derive(Debug, Copy, Clone, PartialEq, Eq, Hash)]
 pub struct LanguageCode<'a> {
     ///ISO Language Name
     pub name: &'static str,
@@ -62,6 +83,56 @@ pub struct LanguageCode<'a> {
     pub individual_languages: &'a [IndividualLanguages],
 }
 
+#[cfg(target_arch = "wasm32")]
+#[cfg_attr(target_arch = "wasm32", wasm_bindgen)]
+impl LanguageCode {
+     #[wasm_bindgen(getter)]
+    pub fn name(&self) -> String {
+        self.name.into()
+    }
+     #[wasm_bindgen(getter)]
+    pub fn code(&self) -> String {
+        self.code.into()
+    }
+
+    #[wasm_bindgen(getter)]
+    pub fn code_2t(&self) -> String {
+        self.code_2t.into()
+    }
+
+    #[wasm_bindgen(getter)]
+    pub fn code_2b(&self) -> String {
+        self.code_2b.into()
+    }
+
+    #[wasm_bindgen(getter)]
+    pub fn code_3(&self) -> String {
+        self.code_3.into()
+    }
+	
+    #[wasm_bindgen(getter)]
+    pub fn individual_languages(&self) -> Array {
+		let mut vector: Vec<IndividualLanguages> = Vec::new(); 
+        // self.individual_languages.into_serde().unwrap();
+		for i in 0..self.individual_languages.len() {
+			vector.push(self.individual_languages[i])
+		}
+		vector.into_iter().map(JsValue::from).collect()
+    }
+}
+
+
+#[cfg(target_arch = "wasm32")]
+#[wasm_bindgen]
+#[derive(Debug, Copy, Clone, PartialEq, Eq, Hash)]
+pub struct IndividualLanguages {
+    ///Name
+    name: &'static str,
+    ///Code
+    code: &'static str,
+}
+
+#[cfg(not(target_arch = "wasm32"))]
 #[derive(Debug, Copy, Clone, PartialEq, Eq, Hash)]
 pub struct IndividualLanguages {
     ///Name
@@ -70,20 +141,39 @@ pub struct IndividualLanguages {
     pub code: &'static str,
 }
 
+#[cfg(target_arch = "wasm32")]
+#[cfg_attr(target_arch = "wasm32", wasm_bindgen)]
+impl IndividualLanguages {
+     #[wasm_bindgen(getter)]
+    pub fn name(&self) -> String {
+        self.name.into()
+    }
+     #[wasm_bindgen(getter)]
+    pub fn code(&self) -> String {
+        self.code.into()
+    }
+}
 
+
+
+#[cfg_attr(target_arch = "wasm32", wasm_bindgen)]
 pub fn from_code_1(code: &str) -> Option<LanguageCode> {
     let up = code.to_lowercase();
     ALL_1_MAP.get(up.as_str()).cloned()
 }
 
+#[cfg_attr(target_arch = "wasm32", wasm_bindgen)]
 pub fn from_code_2t(code: &str) -> Option<LanguageCode> {
     let up = code.to_lowercase();
     ALL_2T_MAP.get(up.as_str()).cloned()
 }
+
+#[cfg_attr(target_arch = "wasm32", wasm_bindgen)]
 pub fn from_code_2b(code: &str) -> Option<LanguageCode> {
     let up = code.to_lowercase();
     ALL_2B_MAP.get(up.as_str()).cloned()
 }
+#[cfg_attr(target_arch = "wasm32", wasm_bindgen)]
 pub fn from_code_3(code: &str) -> Option<LanguageCode> {
     let up = code.to_lowercase();
     ALL_3_MAP.get(up.as_str()).cloned()

@@ -1,0 +1,973 @@
+| {{iso639-2|aar}} || aar ||  || aa || [[Afar language|Afar]] || Individual || Living || Qafaraf; ’Afar Af; Afaraf; Qafar af || 
+|-
+| {{iso639-2|abk}} || abk ||  || ab || [[Abkhaz language|Abkhazian]] || Individual || Living || Аҧсуа бызшәа ''Aƥsua bızšwa''; Аҧсшәа ''Aƥsua'' || [[Abkhaz language|Abkhaz]]
+|-
+| {{iso639-2|ace}} || ace ||  ||  || [[Acehnese language|Achinese]] || Individual || Living || بهسا اچيه || [[Acehnese language|Acehnese]]
+|-
+| {{iso639-2|ach}} || ach ||  ||  || [[Acholi language|Acoli]] || Individual || Living || Lwo || [[Acholi language|Acholi]]
+|-
+| {{iso639-2|ada}} || ada ||  ||  || [[Dangme language|Adangme]] || Individual || Living || Dangme || [[Dangme language|Dangme]]
+|-
+| {{iso639-2|ady}} || ady ||  ||  || [[Adyghe language|Adyghe]]; Adygei || Individual || Living || Адыгабзэ; Кӏахыбзэ || [[West Circassian language|West Circassian]]
+|-
+| {{iso639-2|afa}} ||  || afa ||  || [[Afroasiatic languages|Afro-Asiatic languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|afh}} || afh ||  ||  || [[Afrihili]] || Individual || Constructed || El-Afrihili || 
+|-
+| {{iso639-2|afr}} || afr ||  || af || [[Afrikaans]] || Individual || Living || Afrikaans || 
+|-
+| {{iso639-2|ain}} || ain ||  ||  || [[Ainu language|Ainu]] || Individual || Living || アイヌ・イタㇰ ''Ainu-itak'' || 
+|-
+| {{iso639-2|aka}} || aka ||  || ak || [[Akan language|Akan]] || Macrolanguage || Living || Akan || 
+|-
+| {{iso639-2|akk}} || akk ||  ||  || [[Akkadian language|Akkadian]] || Individual || Ancient || 𒀝𒅗𒁺𒌑 || 
+|-
+| {{iso639-2|ale}} || ale ||  ||  || [[Aleut language|Aleut]] || Individual || Living || Уна́ӈам тунуу́; Унаӈан умсуу || 
+|-
+| {{iso639-2|alg}} ||  || alg ||  || [[Algonquian languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|alt}} || alt ||  ||  || [[Southern Altai language|Southern Altai]] || Individual || Living || Алтай тили || 
+|-
+| {{iso639-2|amh}} || amh ||  || am || [[Amharic]] || Individual || Living || አማርኛ ''Amârıñâ'' || 
+|-
+| {{iso639-2|ang}} || ang ||  ||  || [[Old English|English, Old]] (ca.450–1100) || Individual || Historical || Ænglisc; Anglisc; Englisc || 
+|-
+| {{iso639-2|anp}} || anp ||  ||  || [[Angika]] || Individual || Living ||  || 
+|-
+| {{iso639-2|apa}} ||  || apa ||  || [[Southern Athabaskan languages|Apache languages]] || Collective ||  ||  || [[Southern Athabaskan languages]]
+|-
+| {{iso639-2|ara}} || ara ||  || ar || [[Arabic]] || Macrolanguage || Living || العَرَبِيَّة ''al'Arabiyyeẗ'' || 
+|-
+| {{iso639-2|arc}} || arc ||  ||  || [[Old Aramaic language|Official Aramaic]] (700–300 BCE); {{nowrap|[[Imperial Aramaic language|Imperial Aramaic]] (700–300 BCE)}} || Individual || Ancient ||  || 
+|-
+| {{iso639-2|arg}} || arg ||  || an || [[Aragonese language|Aragonese]] || Individual || Living || aragonés || 
+|-
+| {{iso639-2|arn}} || arn ||  ||  || Mapudungun; [[Mapuche language|Mapuche]] || Individual || Living ||  ||
+|-
+| {{iso639-2|arp}} || arp ||  ||  || [[Arapaho language|Arapaho]] || Individual || Living || Hinónoʼeitíít || 
+|-
+| {{iso639-2|art}} ||  || art ||  || [[Constructed language|Artificial languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|arw}} || arw ||  ||  || [[Arawak language|Arawak]] || Individual || Living || Lokono || [[Lokono language|Lokono]]
+|-
+| {{iso639-2|asm}} || asm ||  || as || [[Assamese language|Assamese]] || Individual || Living || অসমীয়া || 
+|-
+| {{iso639-2|ast}} || ast ||  ||  || [[Asturian language|Asturian]]; [[Bable language|Bable]]; [[Leonese language|Leonese]]; [[Asturleonese language|Asturleonese]] || Individual || Living || Asturianu; Llïonés || 
+|-
+| {{iso639-2|ath}} ||  || ath ||  || [[Athapascan languages]] || Collective ||  ||  || [[Athabaskan languages]]
+|-
+| {{iso639-2|aus}} ||  || aus ||  || [[Australian languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|ava}} || ava ||  || av || [[Avaric language|Avaric]] || Individual || Living || Магӏарул мацӏ; Авар мацӏ || [[Avar language|Avar]]
+|-
+| {{iso639-2|ave}} || ave ||  || ae || [[Avestan language|Avestan]] || Individual || Ancient ||  || 
+|-
+| {{iso639-2|awa}} || awa ||  ||  || [[Awadhi language|Awadhi]] || Individual || Living || अवधी || 
+|-
+| {{iso639-2|aym}} || aym ||  || ay || [[Aymara language|Aymara]] || Macrolanguage || Living || Aymar aru || 
+|-
+| {{iso639-2|aze}} || aze ||  || az || [[Azerbaijani language|Azerbaijani]] || Macrolanguage || Living || Azərbaycan dili; آذربایجان دیلی; Азәрбајҹан дили || 
+|- id="B"
+| {{iso639-2|bad}} ||  || bad ||  || [[Banda languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|bai}} ||  || bai ||  || [[Bamileke languages]] || Collective ||  || Bamiléké || 
+|-
+| {{iso639-2|bak}} || bak ||  || ba || [[Bashkir language|Bashkir]] || Individual || Living || Башҡорт теле; Başqort tele || 
+|-
+| {{iso639-2|bal}} || bal ||  ||  || [[Baluchi language|Baluchi]] || Macrolanguage || Living || بلوچی || [[Balochi language|Balochi]]
+|-
+| {{iso639-2|bam}} || bam ||  || bm || [[Bambara language|Bambara]] || Individual || Living || ߓߊߡߊߣߊߣߞߊߣ || 
+|-
+| {{iso639-2|ban}} || ban ||  ||  || [[Balinese language|Balinese]] || Individual || Living || ᬪᬵᬱᬩᬮᬶ; ᬩᬲᬩᬮᬶ; Basa Bali || 
+|-
+| {{iso639-2|bas}} || bas ||  ||  || [[Basaa language|Basa]] || Individual || Living || Mbene; Ɓasaá || [[Basaa language|Basaa]]
+|-
+| {{iso639-2|bat}} ||  || bat ||  || [[Baltic languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|bej}} || bej ||  ||  || [[Beja language|Beja]]; [[Bedawiyet language|Bedawiyet]] || Individual || Living || Bidhaawyeet || 
+|-
+| {{iso639-2|bel}} || bel ||  || be || [[Belarusian language|Belarusian]] || Individual || Living || Беларуская мова ''Belaruskaâ mova'' || 
+|-
+| {{iso639-2|bem}} || bem ||  ||  || [[Bemba language|Bemba]] || Individual || Living || Chibemba || 
+|-
+| {{iso639-2|ben}} || ben ||  || bn || [[Bengali language|Bengali]] || Individual || Living || বাংলা ''Bāŋlā'' || 
+|-
+| {{iso639-2|ber}} ||  || ber ||  || [[Berber languages]] || Collective ||  || Tamaziɣt; Tamazight; ⵜⴰⵎⴰⵣⵉⵖⵜ; ⵝⴰⵎⴰⵣⵉⵗⵝ; ⵜⴰⵎⴰⵣⵉⵗⵜ || [[Amazigh languages]]
+|-
+| {{iso639-2|bho}} || bho ||  ||  || [[Bhojpuri language|Bhojpuri]] || Individual || Living || भोजपुरी || 
+|-
+| {{iso639-2|bih}} ||  || bih || || [[Bihari languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|bik}} || bik ||  ||  || [[Bikol language|Bikol]] || Macrolanguage || Living ||  || 
+|-
+| {{iso639-2|bin}} || bin ||  ||  || [[Bini language|Bini]]; [[Edo language|Edo]] || Individual || Living || Ẹ̀dó || 
+|-
+| {{iso639-2|bis}} || bis ||  || bi || [[Bislama language|Bislama]] || Individual || Living ||  || 
+|-
+| {{iso639-2|bla}} || bla ||  ||  || [[Siksika language|Siksika]] || Individual || Living || ᓱᖽᐧᖿ || [[Blackfoot language|Blackfoot]]
+|-
+| {{iso639-2|bnt}} ||  || bnt ||  || [[Bantu languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|bod}} / tib*  || bod ||  || bo || [[Standard Tibetan|Tibetan]] || Individual || Living || བོད་སྐད་ ''Bodskad''; ལྷ་སའི་སྐད་ ''Lhas'iskad'' ||
+|-
+| {{iso639-2|bos}} || bos ||  || bs || [[Bosnian language|Bosnian]] || Individual || Living || bosanski || 
+|-
+| {{iso639-2|bra}} || bra ||  ||  || [[Braj language|Braj]] || Individual || Living ||  || [[Braj Bhāshā language|Braj Bhāshā]]
+|-
+| {{iso639-2|bre}} || bre ||  || br || [[Breton language|Breton]] || Individual || Living || Brezhoneg || 
+|-
+| {{iso639-2|btk}} ||  || btk ||  || [[Batak languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|bua}} || bua ||  ||  || [[Buriat language|Buriat]] || Macrolanguage || Living || буряад хэлэн || [[Buryat language|Buryat]]
+|-
+| {{iso639-2|bug}} || bug ||  ||  || [[Buginese language|Buginese]] || Individual || Living || ᨅᨔ ᨕᨘᨁᨗ || 
+|-
+| {{iso639-2|bul}} || bul ||  || bg || [[Bulgarian language|Bulgarian]] || Individual || Living || български език ''bălgarski ezik'' || 
+|-
+| {{iso639-2|byn}} || byn ||  ||  || [[Bilen language|Blin; Bilin]] || Individual || Living || ብሊና; ብሊን || [[Bilen language|Bilen]]
+|- id="C"
+| {{iso639-2|cad}} || cad ||  ||  || [[Caddo language|Caddo]] || Individual || Living || Hasí:nay ||
+|-
+| {{iso639-2|cai}} ||  || cai ||  || [[Central American Indian languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|car}} || car ||  ||  || [[Galibi Carib language|Galibi Carib]] || Individual || Living || Kari'nja || [[Carib language|Carib]]
+|-
+| {{iso639-2|cat}} || cat ||  || ca || [[Catalan language|Catalan]]; [[Valencian language|Valencian]] || Individual || Living || català,valencià || 
+|-
+| {{iso639-2|cau}} ||  || cau ||  || [[Caucasian languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|ceb}} || ceb ||  ||  || [[Cebuano language|Cebuano]] || Individual || Living || Sinugbuanong Binisayâ || 
+|-
+| {{iso639-2|cel}} ||  || cel ||  || [[Celtic languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|ces}} / cze* || ces ||  || cs || [[Czech language|Czech]] || Individual || Living || čeština; český jazyk ||
+|-
+| {{iso639-2|cha}} || cha ||  || ch || [[Chamorro language|Chamorro]] || Individual || Living || Finu' Chamoru || 
+|-
+| {{iso639-2|chb}} || chb ||  ||  || [[Chibcha language|Chibcha]] || Individual || Extinct || Muysccubun || 
+|-
+| {{iso639-2|che}} || che ||  || ce || [[Chechen language|Chechen]] || Individual || Living || Нохчийн мотт; نَاخچیین موٓتت; ნახჩიე მუოთთ || 
+|-
+| {{iso639-2|chg}} || chg ||  ||  || [[Chagatai language|Chagatai]] || Individual || Extinct || جغتای || 
+|-
+| {{iso639-2|chk}} || chk ||  ||  || [[Chuukese language|Chuukese]] || Individual || Living ||  || 
+|-
+| {{iso639-2|chm}} || chm ||  ||  || [[Mari language|Mari]] || Macrolanguage || Living || марий йылме || 
+|-
+| {{iso639-2|chn}} || chn ||  ||  || [[Chinook jargon language|Chinook jargon]] || Individual || Living || chinuk wawa; wawa; chinook lelang; lelang || 
+|-
+| {{iso639-2|cho}} || cho ||  ||  || [[Choctaw language|Choctaw]] || Individual || Living || Chahta' || 
+|-
+| {{iso639-2|chp}} || chp ||  ||  || [[Chipewyan language|Chipewyan]]; [[Dene Suline language|Dene Suline]] || Individual || Living || ᑌᓀᓱᒼᕄᓀ (Dënesųłiné) || 
+|-
+| {{iso639-2|chr}} || chr ||  ||  || [[Cherokee language|Cherokee]] || Individual || Living || ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ ''Tsalagi gawonihisdi'' || 
+|-
+| {{iso639-2|chu}} || chu ||  || cu || [[Church Slavic language|Church&nbsp;Slavic]]; [[Old Slavonic language|Old&nbsp;Slavonic]]; [[Church Slavonic language|Church&nbsp;Slavonic]]; [[Old Bulgarian language|Old&nbsp;Bulgarian]]; [[Old Church Slavonic language|Old&nbsp;Church&nbsp;Slavonic]] || Individual || Ancient || Славе́нскїй ѧ҆зы́къ || 
+|-
+| {{iso639-2|chv}} || chv ||  || cv || [[Chuvash language|Chuvash]] || Individual || Living || Чӑвашла || 
+|-
+| {{iso639-2|chy}} || chy ||  ||  || [[Cheyenne language|Cheyenne]] || Individual || Living || Tsėhésenėstsestȯtse || 
+|-
+| {{iso639-2|cmc}} ||  || cmc ||  || [[Chamic languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|cnr}} || cnr ||  ||  || [[Montenegrin language|Montenegrin]] || Individual || Living || crnogorski / црногорски ||
+|-
+| {{iso639-2|cop}} || cop ||  ||  || [[Coptic language|Coptic]] || Individual || Extinct || ϯⲙⲉⲑⲣⲉⲙⲛ̀ⲭⲏⲙⲓ; ⲧⲙⲛ̄ⲧⲣⲙ̄ⲛ̄ⲕⲏⲙⲉ  || 
+|-
+| {{iso639-2|cor}} || cor ||  || kw || [[Cornish language|Cornish]] || Individual || Living || Kernowek || 
+|-
+| {{iso639-2|cos}} || cos ||  || co || [[Corsican language|Corsican]] || Individual || Living || Corsu; Lingua corsa || 
+|-
+| {{iso639-2|cpe}} ||  || cpe ||  || [[English-based creole language|Creoles]] and [[List of English-based pidgins|pidgins]], English based || Collective ||  ||  || 
+|-
+| {{iso639-2|cpf}} ||  || cpf ||  || [[French-based creole languages|Creoles]] and pidgins, French-based || Collective ||  ||  || 
+|-
+| {{iso639-2|cpp}} ||  || cpp ||  || [[Portuguese-based creole languages|Creoles]] and pidgins, Portuguese-based || Collective ||  ||  || 
+|-
+| {{iso639-2|cre}} || cre ||  || cr || [[Cree language|Cree]] || Macrolanguage || Living ||  || 
+|-
+| {{iso639-2|crh}} || crh ||  ||  || [[Crimean Tatar language|Crimean Tatar]]; [[Crimean Turkish language|Crimean Turkish]] || Individual || Living || Къырымтатарджа; Къырымтатар тили; Ҡырымтатарҗа; Ҡырымтатар тили || 
+|-
+| {{iso639-2|crp}} ||  || crp ||  || [[Creole language|Creoles]] and [[pidgin language|pidgins]] || Collective ||  ||  || 
+|-
+| {{iso639-2|csb}} || csb ||  ||  || [[Kashubian language|Kashubian]] || Individual || Living || Kaszëbsczi jãzëk || [[Cassubian language|Cassubian]]
+|-
+| {{iso639-2|cus}} ||  || cus ||  || [[Cushitic languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|cym}} / wel* || cym ||  || cy || [[Welsh language|Welsh]] || Individual || Living || Cymraeg; y Gymraeg ||
+|- id="D"
+| {{iso639-2|dak}} || dak ||  ||  || [[Dakota language|Dakota]] || Individual || Living || Dakhótiyapi; Dakȟótiyapi || 
+|-
+| {{iso639-2|dan}} || dan ||  || da || [[Danish language|Danish]] || Individual || Living || dansk || 
+|-
+| {{iso639-2|dar}} || dar ||  ||  || [[Dargwa language|Dargwa]] || Individual || Living || дарган мез || 
+|-
+| {{iso639-2|day}} ||  || day ||  || [[Land Dayak languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|del}} || del ||  ||  || [[Delaware language|Delaware]] || Macrolanguage || Living ||  || 
+|-
+| {{iso639-2|den}} || den ||  ||  || [[Slave language (Athapascan)|Slave (Athapascan)]] || Macrolanguage || Living || Dene K'e || [[Slavey language|Slavey]]
+|-
+| {{iso639-2|deu}} / ger* || deu ||  || de || [[German language|German]] || Individual || Living || Deutsch ||
+|-
+| {{iso639-2|dgr}} || dgr ||  ||  || [[Dogrib language|Dogrib]] || Individual || Living ||
+|-
+| {{iso639-2|din}} || din ||  ||  || [[Dinka language|Dinka]] || Macrolanguage || Living || Thuɔŋjäŋ || 
+|-
+| {{iso639-2|div}} || div ||  || dv || [[Maldivian language|Divehi; Dhivehi; Maldivian]] || Individual || Living || ދިވެހި; ދިވެހިބަސް ''Divehi'' || 
+|-
+| {{iso639-2|doi}} || doi ||  ||  || [[Dogri language|Dogri]] || Macrolanguage || Living || 𑠖𑠵𑠌𑠤𑠮; डोगरी; ڈوگرى || 
+|-
+| {{iso639-2|dra}} ||  || dra ||  || [[Dravidian languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|dsb}} || dsb ||  ||  || [[Lower Sorbian language|Lower Sorbian]] || Individual || Living || Dolnoserbski; Dolnoserbšćina || 
+|-
+| {{iso639-2|dua}} || dua ||  ||  || [[Duala language|Duala]] || Individual || Living ||  || 
+|-
+| {{iso639-2|dum}} || dum ||  ||  || [[Middle Dutch|Dutch, Middle]] (ca. 1050–1350) || Individual || Historical ||  || 
+|-
+| {{iso639-2|dyu}} || dyu ||  ||  || [[Dyula language|Dyula]] || Individual || Living || Julakan || [[Jula language|Jula]]
+|-
+| {{iso639-2|dzo}} || dzo ||  || dz || [[Dzongkha language|Dzongkha]] || Individual || Living || རྫོང་ཁ་ ''Ĵoŋkha'' || 
+|- id="E"
+| {{iso639-2|efi}} || efi ||  ||  || [[Efik language|Efik]] || Individual || Living ||  || 
+|-
+| {{iso639-2|egy}} || egy ||  ||  || [[Egyptian language (Ancient)|Egyptian (Ancient)]] || Individual || Ancient ||  || 
+|-
+| {{iso639-2|eka}} || eka ||  ||  || [[Ekajuk language|Ekajuk]] || Individual || Living ||  || [[Kajuk language|Kajuk]]
+|-
+| {{iso639-2|ell}} / gre* || ell ||  || el || [[Modern Greek|Greek, Modern]] (1453–) || Individual || Living || Νέα Ελληνικά ''Néa Ellêniká'' ||
+|-
+| {{iso639-2|elx}} || elx ||  ||  || [[Elamite language|Elamite]] || Individual || Ancient ||  || 
+|-
+| {{iso639-2|eng}} || eng ||  || en || [[English language|English]] || Individual || Living || English || 
+|-
+| {{iso639-2|enm}} || enm ||  ||  || [[Middle English|English, Middle]] (1100–1500) || Individual || Historical ||  || 
+|-
+| {{iso639-2|epo}} || epo ||  || eo || [[Esperanto]] || Individual || Constructed || Esperanto || 
+|-
+| {{iso639-2|est}} || est ||  || et || [[Estonian language|Estonian]] || Macrolanguage || Living || eesti keel || 
+|-
+| {{iso639-2|eus}} / baq* || eus ||  || eu || [[Basque language|Basque]] || Individual || Living || euskara ||
+|-
+| {{iso639-2|ewe}} || ewe ||  || ee || [[Ewe language|Ewe]] || Individual || Living || Èʋegbe || 
+|-
+| {{iso639-2|ewo}} || ewo ||  ||  || [[Ewondo language|Ewondo]] || Individual || Living ||  || [[Kolo language|Kolo]]
+|- id="F"
+| {{iso639-2|fan}} || fan ||  ||  || [[Fang language|Fang]] || Individual || Living ||  || 
+|-
+| {{iso639-2|fao}} || fao ||  || fo || [[Faroese language|Faroese]] || Individual || Living || føroyskt || 
+|-
+| {{iso639-2|fas}} / per* || fas ||  || fa || [[Persian language|Persian]] || Macrolanguage || Living || فارسی ''Fārsiy'' || [[Farsi language|Farsi]]
+|-
+| {{iso639-2|fat}} || fat ||  ||  || [[Fanti language|Fanti]] || Individual || Living || Mfantse; Fante; Fanti || [[Fante language|Fante]]
+|-
+| {{iso639-2|fij}} || fij ||  || fj || [[Fijian language|Fijian]] || Individual || Living || Na Vosa Vakaviti || 
+|-
+| {{iso639-2|fil}} || fil ||  ||  || [[Filipino language|Filipino]]; [[Pilipino language|Pilipino]] || Individual || Living || Wikang Filipino || 
+|-
+| {{iso639-2|fin}} || fin ||  || fi || [[Finnish language|Finnish]] || Individual || Living || suomen kieli || 
+|-
+| {{iso639-2|fiu}} ||  || fiu ||  || [[Finno-Ugrian languages]] || Collective ||  ||  || [[Finno-Ugric languages]]
+|-
+| {{iso639-2|fon}} || fon ||  ||  || [[Fon language|Fon]] || Individual || Living || Fon gbè || 
+|-
+| {{iso639-2|fra}} / fre* || fra ||  || fr || [[French language|French]] || Individual || Living || français || 
+|-
+| {{iso639-2|frm}} || frm ||  ||  || [[Middle French|French, Middle]] (ca. 1400–1600) || Individual || Historical || françois; franceis || 
+|-
+| {{iso639-2|fro}} || fro ||  ||  || [[Old French|French, Old]] (842–ca. 1400) || Individual || Historical || Franceis; François; Romanz || 
+|-
+| {{iso639-2|frr}} || frr ||  ||  || [[Northern Frisian language|Northern Frisian]] || Individual || Living || Frasch; Fresk; Freesk; Friisk || [[North Frisian language|North Frisian]]
+|-
+| {{iso639-2|frs}} || frs ||  ||  || [[East Frisian Low Saxon]] || Individual || Living || Oostfreesk; Plattdüütsk || [[East Frisian Low Saxon]]
+|-
+| {{iso639-2|fry}} || fry ||  || fy || [[Western Frisian language|Western Frisian]] || Individual || Living || Frysk || [[West Frisian language|West Frisian]]
+|-
+| {{iso639-2|ful}} || ful ||  || ff || [[Fulah language|Fulah]] || Macrolanguage || Living || Fulfulde; Pulaar; Pular || [[Fula language|Fula]]
+|-
+| {{iso639-2|fur}} || fur ||  ||  || [[Friulian language|Friulian]] || Individual || Living || Furlan || 
+|- id="G"
+| {{iso639-2|gaa}} || gaa ||  ||  || [[Ga language|Ga]] || Individual || Living || Gã || 
+|-
+| {{iso639-2|gay}} || gay ||  ||  || [[Gayo language|Gayo]] || Individual || Living || Basa Gayo || 
+|-
+| {{iso639-2|gba}} || gba ||  ||  || [[Gbaya language|Gbaya]] || Macrolanguage || Living ||  || 
+|-
+| {{iso639-2|gem}} ||  || gem ||  || [[Germanic languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|gez}} || gez ||  ||  || [[Geez language|Geez]] || Individual || Ancient || ግዕዝ || [[Ge'ez language|Ge'ez]]
+|-
+| {{iso639-2|gil}} || gil ||  ||  || [[Gilbertese language|Gilbertese]] || Individual || Living || Taetae ni Kiribati || 
+|-
+| {{iso639-2|gla}} || gla ||  || gd || [[Gaelic language|Gaelic]]; [[Scottish Gaelic language|Scottish Gaelic]] || Individual || Living || Gàidhlig || 
+|-
+| {{iso639-2|gle}} || gle ||  || ga || [[Irish language|Irish]] || Individual || Living || Gaeilge || 
+|-
+| {{iso639-2|glg}} || glg ||  || gl || [[Galician language|Galician]] || Individual || Living || galego || 
+|-
+| {{iso639-2|glv}} || glv ||  || gv || [[Manx language|Manx]] || Individual || Living || Gaelg; Gailck || 
+|-
+| {{iso639-2|gmh}} || gmh ||  ||  || [[Middle High German|German, Middle High]] (ca. 1050–1500) || Individual || Historical || Diutsch || 
+|-
+| {{iso639-2|goh}} || goh ||  ||  || [[Old High German|German, Old High]] (ca. 750–1050) || Individual || Historical || Diutisk || 
+|-
+| {{iso639-2|gon}} || gon ||  ||  || [[Gondi language|Gondi]] || Macrolanguage || Living ||  || 
+|-
+| {{iso639-2|gor}} || gor ||  ||  || [[Gorontalo language|Gorontalo]] || Individual || Living || Bahasa Hulontalo || 
+|-
+| {{iso639-2|got}} || got ||  ||  || [[Gothic language|Gothic]] || Individual || Ancient ||  || 
+|-
+| {{iso639-2|grb}} || grb ||  ||  || [[Grebo language|Grebo]] || Macrolanguage || Living ||  || 
+|-
+| {{iso639-2|grc}} || grc ||  ||  || [[Ancient Greek|Greek, Ancient]] (to 1453) || Individual || Historical || Ἑλληνική || 
+|-
+| {{iso639-2|grn}} || grn ||  || gn || [[Guarani language|Guarani]] || Macrolanguage || Living || Avañe'ẽ || 
+|-
+| {{iso639-2|gsw}} || gsw ||  ||  || [[Swiss German language|Swiss German]]; [[Alemannic language|Alemannic]]; [[Alsatian language|Alsatian]] || Individual || Living || Schwiizerdütsch || 
+|-
+| {{iso639-2|guj}} || guj ||  || gu || [[Gujarati language|Gujarati]] || Individual || Living || ગુજરાતી ''Gujarātī'' || 
+|-
+| {{iso639-2|gwi}} || gwi ||  ||  || [[Gwich’in language|Gwich'in]] || Individual || Living || Dinjii Zhu’ Ginjik || 
+|- id="H"
+| {{iso639-2|hai}} || hai ||  ||  || [[Haida language|Haida]] || Macrolanguage || Living || X̱aat Kíl; X̱aadas Kíl; X̱aayda Kil; Xaad kil || 
+|-
+| {{iso639-2|hat}} || hat ||  || ht || [[Haitian Creole|Haitian; Haitian Creole]] || Individual || Living || kreyòl ayisyen || 
+|-
+| {{iso639-2|hau}} || hau ||  || ha || [[Hausa language|Hausa]] || Individual || Living || Harshen Hausa; هَرْشَن || 
+|-
+| {{iso639-2|haw}} || haw ||  ||  || [[Hawaiian language|Hawaiian]] || Individual || Living || ʻŌlelo Hawaiʻi || 
+|-
+| {{iso639-2|heb}} || heb ||  || he || [[Hebrew language|Hebrew]] || Individual || Living || עברית '''Ivriyþ'' || 
+|-
+| {{iso639-2|her}} || her ||  || hz || [[Herero language|Herero]] || Individual || Living || Otjiherero || 
+|-
+| {{iso639-2|hil}} || hil ||  ||  || [[Hiligaynon language|Hiligaynon]] || Individual || Living || Ilonggo || 
+|-
+| {{iso639-2|him}} ||  || {{efn|[[SIL International]] treats [[ISO 639-2]] code <code>him</code> (Himachali languages / [[Western Pahari]] languages) as an ISO 639-5 code,<ref>{{cite web |url=http://www-01.sil.org/iso639-3/documentation.asp?id=him |title=ISO 639 identifier: him |publisher=SIL International |access-date=2019-01-11 |quote=Code set: 639-2 and 639-5}}</ref><ref>{{cite web | url=https://scripts.sil.org/cms/scripts/render_download.php?format=file&media_id=IssuesToResolveISO639_v2a&filename=IssuesToResolveISO639_v2a.pdf | title=Issues to Resolve in ISO 639 | publisher=SIL International | date= 2004-08-14 }}</ref> although it does not appear in the official list of ISO 639-5 codes<ref name="iso6395" /> maintained by the [[Library of Congress]] (the registration authority for ISO 639-5).}} ||  || [[Western Pahari|Himachali&nbsp;languages; Pahari&nbsp;languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|hin}} || hin ||  || hi || [[Hindi language|Hindi]] || Individual || Living || हिन्दी ''Hindī'' || 
+|-
+| {{iso639-2|hit}} || hit ||  ||  || [[Hittite language|Hittite]] || Individual || Ancient || 𒉈𒅆𒇷 || 
+|-
+| {{iso639-2|hmn}} || hmn ||  ||  || [[Hmong language|Hmong]]; [[Mong language|Mong]] || Macrolanguage || Living || lus Hmoob; lug Moob; lol Hmongb; 𖬇𖬰𖬞 𖬌𖬣𖬵 || 
+|-
+| {{iso639-2|hmo}} || hmo ||  || ho || [[Hiri Motu language|Hiri Motu]] || Individual || Living ||  || 
+|-
+| {{iso639-2|hrv}} || hrv ||  || hr || [[Croatian language|Croatian]] || Individual || Living || hrvatski || 
+|-
+| {{iso639-2|hsb}} || hsb ||  ||  || [[Upper Sorbian language|Upper Sorbian]] || Individual || Living || hornjoserbšćina || 
+|-
+| {{iso639-2|hun}} || hun ||  || hu || [[Hungarian language|Hungarian]] || Individual || Living || magyar nyelv || 
+|-
+| {{iso639-2|hup}} || hup ||  ||  || [[Hupa language|Hupa]] || Individual || Living || Na:tinixwe Mixine:whe' ||
+|-
+| {{iso639-2|hye}} / arm* || hye ||  || hy || [[Armenian language|Armenian]] || Individual || Living || Հայերէն ''Hayerèn''; Հայերեն ''Hayeren'' ||
+|- id="I"
+| {{iso639-2|iba}} || iba ||  ||  || [[Iban language|Iban]] || Individual || Living || Jaku Iban || 
+|-
+| {{iso639-2|ibo}} || ibo ||  || ig || [[Igbo language|Igbo]] || Individual || Living || Asụsụ Igbo || 
+|-
+| {{iso639-2|ido}} || ido ||  || io || [[Ido]] || Individual || Constructed ||  || 
+|-
+| {{iso639-2|iii}} || iii ||  || ii || [[Sichuan Yi language|Sichuan Yi]]; [[Nuosu language|Nuosu]] || Individual || Living || ꆈꌠꉙ ''Nuosuhxop'' || 
+|-
+| {{iso639-2|ijo}} ||  || ijo ||  || [[Ijo languages]] || Collective ||  || Ịjọ || [[Ijaw languages]]
+|-
+| {{iso639-2|iku}} || iku ||  || iu || [[Inuktitut language|Inuktitut]] || Macrolanguage || Living || ᐃᓄᒃᑎᑐᑦ ''Inuktitut'' || 
+|-
+| {{iso639-2|ile}} || ile ||  || ie || [[Interlingue|Interlingue; Occidental]] || Individual || Constructed ||  || 
+|-
+| {{iso639-2|ilo}} || ilo ||  ||  || [[Iloko language|Iloko]] || Individual || Living || Pagsasao nga Ilokano; Ilokano || [[Ilocano language|Ilocano]]
+|-
+| {{iso639-2|ina}} || ina ||  || ia || [[Interlingua]] ([[International Auxiliary Language Association]]) || Individual || Constructed ||  || 
+|-
+| {{iso639-2|inc}} ||  || inc ||  || [[Indo-Aryan languages]] || Collective ||  ||  || [[Indo-Aryan languages|Indic languages]]
+|-
+| {{iso639-2|ind}} || ind ||  || id || [[Indonesian language|Indonesian]] || Individual || Living || bahasa Indonesia || 
+|-
+| {{iso639-2|ine}} ||  || ine ||  || [[Indo-European languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|inh}} || inh ||  ||  || [[Ingush language|Ingush]] || Individual || Living || ГӀалгӀай мотт || 
+|-
+| {{iso639-2|ipk}} || ipk ||  || ik || [[Inupiaq language|Inupiaq]] || Macrolanguage || Living || Iñupiaq || 
+|-
+| {{iso639-2|ira}} ||  || ira ||  || [[Iranian languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|iro}} ||  || iro ||  || [[Iroquoian languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|isl}} / ice* || isl ||  || is || [[Icelandic language|Icelandic]] || Individual || Living || íslenska ||
+|-
+| {{iso639-2|ita}} || ita ||  || it || [[Italian language|Italian]] || Individual || Living || italiano; lingua italiana || 
+|- id="J"
+| {{iso639-2|jav}} || jav ||  || jv || [[Javanese language|Javanese]] || Individual || Living || ꦧꦱꦗꦮ / Basa Jawa || 
+|-
+| {{iso639-2|jbo}} || jbo ||  ||  || [[Lojban language|Lojban]] || Individual || Constructed || la .lojban. || 
+|-
+| {{iso639-2|jpn}} || jpn ||  || ja || [[Japanese language|Japanese]] || Individual || Living || 日本語 ''Nihongo'' || 
+|-
+| {{iso639-2|jpr}} || jpr ||  ||  || [[Judeo-Persian language|Judeo-Persian]] || Individual || Living || Dzhidi || 
+|-
+| {{iso639-2|jrb}} || jrb ||  ||  || [[Judeo-Arabic language|Judeo-Arabic]] || Macrolanguage || Living || عربية يهودية / ערבית יהודית || 
+|- id="K"
+| {{iso639-2|kaa}} || kaa ||  ||  || [[Kara-Kalpak language|Kara-Kalpak]] || Individual || Living || Qaraqalpaq tili; Қарақалпақ тили || [[Karakalpak language|Karakalpak]]
+|-
+| {{iso639-2|kab}} || kab ||  ||  || [[Kabyle language|Kabyle]] || Individual || Living || Tamaziɣt Taqbaylit; Tazwawt || 
+|-
+| {{iso639-2|kac}} || kac ||  ||  || [[Kachin language|Kachin]]; [[Jingpho language|Jingpho]] || Individual || Living || Jingpho || 
+|-
+| {{iso639-2|kal}} || kal ||  || kl || [[Kalaallisut language|Kalaallisut]]; [[Greenlandic language|Greenlandic]] || Individual || Living ||  || 
+|-
+| {{iso639-2|kam}} || kam ||  ||  || [[Kamba language|Kamba]] || Individual || Living ||  || 
+|-
+| {{iso639-2|kan}} || kan ||  || kn || [[Kannada language|Kannada]] || Individual || Living || ಕನ್ನಡ ''Kannađa'' || 
+|-
+| {{iso639-2|kar}} ||  || kar ||  || [[Karen languages]] || Collective ||  ||  || [[Karenic languages]]
+|-
+| {{iso639-2|kas}} || kas ||  || ks || [[Kashmiri language|Kashmiri]] || Individual || Living || कॉशुर / كأشُر || 
+|-
+| {{iso639-2|kat}} / geo* || kat ||  || ka || [[Georgian language|Georgian]] || Individual || Living || ქართული ''Kharthuli'' ||
+|-
+| {{iso639-2|kau}} || kau ||  || kr || [[Kanuri language|Kanuri]] || Macrolanguage || Living ||  || 
+|-
+| {{iso639-2|kaw}} || kaw ||  ||  || [[Kawi language|Kawi]] || Individual || Ancient || ꦧꦱꦗꦮ || 
+|-
+| {{iso639-2|kaz}} || kaz ||  || kk || [[Kazakh language|Kazakh]] || Individual || Living || қазақ тілі ''qazaq tili''; қазақша ''qazaqşa'' || 
+|-
+| {{iso639-2|kbd}} || kbd ||  ||  || [[Kabardian language|Kabardian]] || Individual || Living || Адыгэбзэ (Къэбэрдейбзэ) ''Adıgăbză (Qăbărdeĭbză)'' || 
+|-
+| {{iso639-2|kha}} || kha ||  ||  || [[Khasi language|Khasi]] || Individual || Living || কা কতিয়েন খাশি  || 
+|-
+| {{iso639-2|khi}} ||  || khi ||  || [[Khoisan languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|khm}} || khm ||  || km || [[Central Khmer language|Central Khmer]] || Individual || Living || ភាសាខ្មែរ ''Phiəsaakhmær'' || 
+|-
+| {{iso639-2|kho}} || kho ||  ||  || [[Khotanese language|Khotanese]]; [[Sakan language|Sakan]] || Individual || Ancient ||  || [[Saka language|Saka]]
+|-
+| {{iso639-2|kik}} || kik ||  || ki || [[Kikuyu language|Kikuyu]]; [[Gikuyu language|Gikuyu]] || Individual || Living || Gĩkũyũ || 
+|-
+| {{iso639-2|kin}} || kin ||  || rw || [[Kinyarwanda language|Kinyarwanda]] || Individual || Living || Ikinyarwanda || 
+|-
+| {{iso639-2|kir}} || kir ||  || ky || [[Kirghiz language|Kirghiz]]; [[Kyrgyz language|Kyrgyz]] || Individual || Living || кыргызча ''kırgızça''; кыргыз тили ''kırgız tili'' || 
+|-
+| {{iso639-2|kmb}} || kmb ||  ||  || [[Kimbundu language|Kimbundu]] || Individual || Living ||  || 
+|-
+| {{iso639-2|kok}} || kok ||  ||  || [[Konkani language|Konkani]] || Macrolanguage || Living || कोंकणी || 
+|-
+| {{iso639-2|kom}} || kom ||  || kv || [[Komi language|Komi]] || Macrolanguage || Living || Коми кыв || 
+|-
+| {{iso639-2|kon}} || kon ||  || kg || [[Kongo language|Kongo]] || Macrolanguage || Living ||  || 
+|-
+| {{iso639-2|kor}} || kor ||  || ko || [[Korean language|Korean]] || Individual || Living || 한국어 ''Han'gug'ô'' || 
+|-
+| {{iso639-2|kos}} || kos ||  ||  || [[Kosraean language|Kosraean]] || Individual || Living ||  || 
+|-
+| {{iso639-2|kpe}} || kpe ||  ||  || [[Kpelle language|Kpelle]] || Macrolanguage || Living || Kpɛlɛwoo || 
+|-
+| {{iso639-2|krc}} || krc ||  ||  || [[Karachay-Balkar language|Karachay-Balkar]] || Individual || Living || Къарачай-Малкъар тил; Таулу тил || 
+|-
+| {{iso639-2|krl}} || krl ||  ||  || [[Karelian language|Karelian]] || Individual || Living || karjal; kariela; karjala || 
+|-
+| {{iso639-2|kro}} ||  || kro ||  || [[Kru languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|kru}} || kru ||  ||  || [[Kurukh language|Kurukh]] || Individual || Living || कुड़ुख़ || 
+|-
+| {{iso639-2|kua}} || kua ||  || kj || [[Kuanyama language|Kuanyama]]; [[Kwanyama language|Kwanyama]] || Individual || Living ||  || 
+|-
+| {{iso639-2|kum}} || kum ||  ||  || [[Kumyk language|Kumyk]] || Individual || Living || къумукъ тил/qumuq til || 
+|-
+| {{iso639-2|kur}} || kur ||  || ku || [[Kurdish language|Kurdish]] || Macrolanguage || Living || kurdî / کوردی || 
+|-
+| {{iso639-2|kut}} || kut ||  ||  || [[Kutenai language|Kutenai]] || Individual || Living ||  || 
+|- id="L"
+| {{iso639-2|lad}} || lad ||  ||  || [[Ladino language|Ladino]] || Individual || Living || Judeo-español || [[Judaeo-Spanish language|Judaeo-Spanish]]
+|-
+| {{iso639-2|lah}} || lah ||  ||  || [[Lahnda]] || Macrolanguage || Living || بھارت کا  ||  Western Punjabi
+|-
+| {{iso639-2|lam}} || lam ||  ||  || [[Lamba language|Lamba]] || Individual || Living ||  || 
+|-
+| {{iso639-2|lao}} || lao ||  || lo || [[Lao language|Lao]] || Individual || Living || ພາສາລາວ ''Phasalaw'' || 
+|-
+| {{iso639-2|lat}} || lat ||  || la || [[Latin language|Latin]] || Individual || Ancient || Lingua latīna || 
+|-
+| {{iso639-2|lav}} || lav ||  || lv || [[Latvian language|Latvian]] || Macrolanguage || Living || Latviešu valoda || 
+|-
+| {{iso639-2|lez}} || lez ||  ||  || [[Lezghian language|Lezghian]] || Individual || Living || Лезги чӏал || [[Lezgian language|Lezgian]]
+|-
+| {{iso639-2|lim}} || lim ||  || li || [[Limburgan language|Limburgan]]; [[Limburger language|Limburger]]; [[Limburgish language|Limburgish]] || Individual || Living || Lèmburgs || 
+|-
+| {{iso639-2|lin}} || lin ||  || ln || [[Lingala language|Lingala]] || Individual || Living ||  || 
+|-
+| {{iso639-2|lit}} || lit ||  || lt || [[Lithuanian language|Lithuanian]] || Individual || Living || lietuvių kalba || 
+|-
+| {{iso639-2|lol}} || lol ||  ||  || [[Mongo language|Mongo]] || Individual || Living || Lomongo || 
+|-
+| {{iso639-2|loz}} || loz ||  ||  || [[Lozi language|Lozi]] || Individual || Living ||  || 
+|-
+| {{iso639-2|ltz}} || ltz ||  || lb || [[Luxembourgish language|Luxembourgish]]; [[Letzeburgesch language|Letzeburgesch]] || Individual || Living || Lëtzebuergesch || 
+|-
+| {{iso639-2|lua}} || lua ||  ||  || [[Luba-Lulua language|Luba-Lulua]] || Individual || Living || Cilubà / Tshiluba || [[Luba-Kasai language|Luba-Kasai]]
+|-
+| {{iso639-2|lub}} || lub ||  || lu || [[Luba-Katanga language|Luba-Katanga]] || Individual || Living || Kiluba || 
+|-
+| {{iso639-2|lug}} || lug ||  || lg || [[Ganda language|Ganda]] || Individual || Living || Luganda || [[Luganda language|Luganda]]
+|-
+| {{iso639-2|lui}} || lui ||  ||  || [[Luiseno language|Luiseno]] || Individual || Extinct || Cham'teela || 
+|-
+| {{iso639-2|lun}} || lun ||  ||  || [[Lunda language|Lunda]] || Individual || Living || Chilunda || 
+|-
+| {{iso639-2|luo}} || luo ||  ||  || [[Luo language (Kenya and Tanzania)|Luo (Kenya and Tanzania)]] || Individual || Living || Dholuo || 
+|-
+| {{iso639-2|lus}} || lus ||  ||  || [[Lushai language|Lushai]] || Individual || Living || Mizo ṭawng || [[Mizo language|Mizo]]
+|- id="M"
+| {{iso639-2|mad}} || mad ||  ||  || [[Madurese language|Madurese]] || Individual || Living || Madhura || 
+|-
+| {{iso639-2|mag}} || mag ||  ||  || [[Magahi language|Magahi]] || Individual || Living || मगही || 
+|-
+| {{iso639-2|mah}} || mah ||  || mh || [[Marshallese language|Marshallese]] || Individual || Living || Kajin M̧ajeļ || 
+|-
+| {{iso639-2|mai}} || mai ||  ||  || [[Maithili language|Maithili]] || Individual || Living || मैथिली; মৈথিলী  || 
+|-
+| {{iso639-2|mak}} || mak ||  ||  || [[Makasar language|Makasar]] || Individual || Living || Basa Mangkasara' / ᨅᨔ ᨆᨀᨔᨑ || [[Makassarese language|Makassarese]]
+|-
+| {{iso639-2|mal}} || mal ||  || ml || [[Malayalam language|Malayalam]] || Individual || Living || മലയാളം ''Malayāļã'' || 
+|-
+| {{iso639-2|man}} || man ||  ||  || [[Mandingo language|Mandingo]] || Macrolanguage || Living || Mandi'nka kango || [[Manding languages|Manding]]
+|-
+| {{iso639-2|map}} ||  || map ||  || [[Austronesian languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|mar}} || mar ||  || mr || [[Marathi language|Marathi]] || Individual || Living || मराठी ''Marāţhī'' || 
+|-
+| {{iso639-2|mas}} || mas ||  ||  || [[Masai language|Masai]] || Individual || Living || ɔl || 
+|-
+| {{iso639-2|mdf}} || mdf ||  ||  || [[Moksha language|Moksha]] || Individual || Living || мокшень кяль || 
+|-
+| {{iso639-2|mdr}} || mdr ||  ||  || [[Mandar language|Mandar]] || Individual || Living ||  || 
+|-
+| {{iso639-2|men}} || men ||  ||  || [[Mende language|Mende]] || Individual || Living || Mɛnde yia || 
+|-
+| {{iso639-2|mga}} || mga ||  ||  || [[Middle Irish|Irish, Middle]] (900–1200) || Individual || Historical || Gaoidhealg || 
+|-
+| {{iso639-2|mic}} || mic ||  ||  || [[Mi'kmaq language|Mi'kmaq]]; [[Micmac language|Micmac]] || Individual || Living || Míkmawísimk || 
+|-
+| {{iso639-2|min}} || min ||  ||  || [[Minangkabau language|Minangkabau]] || Individual || Living || Baso Minang || 
+|-
+| {{iso639-2|mis}} || mis ||  ||  || Uncoded languages || Special ||  ||  || 
+|-
+| {{iso639-2|mkd}} / mac* || mkd ||  || mk || [[Macedonian language|Macedonian]] || Individual || Living || македонски јазик ''makedonski jazik'' ||
+|-
+| {{iso639-2|mkh}} ||  || mkh ||  || [[Mon-Khmer languages]] || Collective ||  ||  || [[Austroasiatic languages]]
+|-
+| {{iso639-2|mlg}} || mlg ||  || mg || [[Malagasy language|Malagasy]] || Macrolanguage || Living ||  || 
+|-
+| {{iso639-2|mlt}} || mlt ||  || mt || [[Maltese language|Maltese]] || Individual || Living || Malti || 
+|-
+| {{iso639-2|mnc}} || mnc ||  ||  || [[Manchu language|Manchu]] || Individual || Living || ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ ''Manju gisun'' || 
+|-
+| {{iso639-2|mni}} || mni ||  ||  || [[Manipuri language|Manipuri]] || Individual || Living ||  || [[Meitei language|Meitei]]
+|-
+| {{iso639-2|mno}} ||  || mno ||  || [[Manobo languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|moh}} || moh ||  ||  || [[Mohawk language|Mohawk]] || Individual || Living || Kanien’kéha || 
+|-
+| {{iso639-2|mon}} || mon ||  || mn || [[Mongolian language|Mongolian]] || Macrolanguage || Living || монгол хэл ''mongol xel''; ᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ || 
+|-
+| {{iso639-2|mos}} || mos ||  ||  || [[Mossi language|Mossi]] || Individual || Living || Mooré || 
+|-
+| {{iso639-2|mri}} / mao* || mri ||  || mi || [[Māori language|Māori]] || Individual || Living || Te Reo Māori || 
+|-
+| {{iso639-2|msa}} / may* || msa ||  || ms || [[Malay language|Malay]] || Macrolanguage || Living || Bahasa Melayu ||
+|-
+| {{iso639-2|mul}} || mul ||  ||  || Multiple languages || Special ||  ||  || 
+|-
+| {{iso639-2|mun}} ||  || mun ||  || [[Munda languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|mus}} || mus ||  ||  || [[Creek language|Creek]] || Individual || Living || Mvskoke || [[Muscogee language|Muscogee]]
+|-
+| {{iso639-2|mwl}} || mwl ||  ||  || [[Mirandese language|Mirandese]] || Individual || Living || mirandés; lhéngua mirandesa || 
+|-
+| {{iso639-2|mwr}} || mwr ||  ||  || [[Marwari language|Marwari]] || Macrolanguage || Living || मारवाड़ी || 
+|-
+| {{iso639-2|mya}} / bur* || mya ||  || my || [[Burmese language|Burmese]] || Individual || Living || မြန်မာစာ ''Mrãmācā''; မြန်မာစကား ''Mrãmākā:'' || [[Myanmar language|Myanmar]]
+|-
+| {{iso639-2|myn}} ||  || myn ||  || [[Mayan languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|myv}} || myv ||  ||  || [[Erzya language|Erzya]] || Individual || Living || эрзянь кель || 
+|- id="N"
+| {{iso639-2|nah}} ||  || nah ||  || [[Nahuatl languages]] || Collective ||  ||  || [[Nahuan languages]]
+|-
+| {{iso639-2|nai}} ||  || nai ||  || [[North American Indian languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|nap}} || nap ||  ||  || [[Neapolitan language|Neapolitan]] || Individual || Living || napulitano || 
+|-
+| {{iso639-2|nau}} || nau ||  || na || [[Nauru language|Nauru]] || Individual || Living || dorerin Naoero || [[Nauruan language|Nauruan]]
+|-
+| {{iso639-2|nav}} || nav ||  || nv || [[Navajo language|Navajo]]; [[Navaho language|Navaho]] || Individual || Living || Diné bizaad; Naabeehó bizaad || 
+|-
+| {{iso639-2|nbl}} || nbl ||  || nr || Ndebele, South; [[Southern Ndebele language|South Ndebele]] || Individual || Living || isiNdebele seSewula || [[Southern Ndebele language|Southern Ndebele]]
+|-
+| {{iso639-2|nde}} || nde ||  || nd || Ndebele, North; [[Northern Ndebele language|North Ndebele]] || Individual || Living || siNdebele saseNyakatho || [[Northern Ndebele language|Northern Ndebele]]
+|-
+| {{iso639-2|ndo}} || ndo ||  || ng || [[Ndonga language|Ndonga]] || Individual || Living || ndonga || 
+|-
+| {{iso639-2|nds}} || nds ||  ||  || [[Low German]]; Low Saxon; German, Low; Saxon, Low || Individual || Living || Plattdütsch; Plattdüütsch || 
+|-
+| {{iso639-2|nep}} || nep ||  || ne || [[Nepali language|Nepali]] || Macrolanguage || Living || नेपाली भाषा ''Nepālī bhāśā'' || 
+|-
+| {{iso639-2|new}} || new ||  ||  || [[Nepal Bhasa language|Nepal Bhasa]]; [[Newari language|Newari]] || Individual || Living || नेपाल भाषा; नेवाः भाय् || [[Newar language|Newar]]
+|-
+| {{iso639-2|nia}} || nia ||  ||  || [[Nias language|Nias]] || Individual || Living || Li Niha || 
+|-
+| {{iso639-2|nic}} ||  || nic ||  || [[Niger-Kordofanian languages]] || Collective ||  ||  || [[Niger-Congo languages]]
+|-
+| {{iso639-2|niu}} || niu ||  ||  || [[Niuean language|Niuean]] || Individual || Living || ko e vagahau Niuē || 
+|-
+| {{iso639-2|nld}} / dut* || nld ||  || nl || [[Dutch language|Dutch]]; [[Flemish language|Flemish]] || Individual || Living || Nederlands; Vlaams || 
+|-
+| {{iso639-2|nno}} || nno ||  || nn || [[Nynorsk|Norwegian Nynorsk]]; Nynorsk, Norwegian || Individual || Living || norsk nynorsk || [[Nynorsk language|Nynorsk]]
+|-
+| {{iso639-2|nob}} || nob ||  || nb || [[Bokmål]], Norwegian; Norwegian Bokmål || Individual || Living || norsk bokmål || [[Bokmål language|Bokmål]]
+|-
+| {{iso639-2|nog}} || nog ||  ||  || [[Nogai language|Nogai]] || Individual || Living || Ногай тили || 
+|-
+| {{iso639-2|non}} || non ||  ||  || [[Old Norse language|Norse, Old]] || Individual || Historical || Dǫnsk tunga; Norrœnt mál || 
+|-
+| {{iso639-2|nor}} || nor ||  || no || [[Norwegian language|Norwegian]] || Macrolanguage || Living || norsk || 
+|-
+| {{iso639-2|nqo}} || nqo ||  ||  || [[N'Ko language|N'Ko]] || Individual || Living ||  || 
+|-
+| {{iso639-2|nso}} || nso ||  ||  || [[Pedi language|Pedi]]; [[Sepedi language|Sepedi]]; [[Northern Sotho language|Northern Sotho]] || Individual || Living || Sesotho sa Leboa || 
+|-
+| {{iso639-2|nub}} ||  || nub ||  || [[Nubian languages]] || Collective ||  || لغات نوبية || 
+|-
+| {{iso639-2|nwc}} || nwc ||  ||  || [[Classical Newari language|Classical&nbsp;Newari]]; [[Old Newari language|Old&nbsp;Newari]]; [[Classical Nepal Bhasa language|Classical&nbsp;Nepal&nbsp;Bhasa]] || Individual || Historical || पुलां भाय्; पुलाङु नेपाल भाय् || 
+|-
+| {{iso639-2|nya}} || nya ||  || ny || [[Chichewa language|Chichewa]]; [[Chewa language|Chewa]]; [[Nyanja language|Nyanja]] || Individual || Living || Chichewa; Chinyanja || 
+|-
+| {{iso639-2|nym}} || nym ||  ||  || [[Nyamwezi language|Nyamwezi]] || Individual || Living ||  || 
+|-
+| {{iso639-2|nyn}} || nyn ||  ||  || [[Nyankole language|Nyankole]] || Individual || Living ||  || [[Nkore language|Nkore]]
+|-
+| {{iso639-2|nyo}} || nyo ||  ||  || [[Nyoro language|Nyoro]] || Individual || Living || Runyoro || 
+|-
+| {{iso639-2|nzi}} || nzi ||  ||  || [[Nzima language|Nzima]] || Individual || Living ||  || [[Nzema language|Nzema]]
+|- id="O"
+| {{iso639-2|oci}} || oci ||  || oc || [[Occitan language|Occitan]] (post 1500) || Individual || Living || occitan; lenga d'òc || 
+|-
+| {{iso639-2|oji}} || oji ||  || oj || [[Ojibwa language|Ojibwa]] || Macrolanguage || Living ||  || [[Ojibwe language|Ojibwe]]
+|-
+| {{iso639-2|ori}} || ori ||  || or || [[Oriya language|Oriya]] || Macrolanguage || Living || ଓଡ଼ିଆ || [[Odia language|Odia]]
+|-
+| {{iso639-2|orm}} || orm ||  || om || [[Oromo language|Oromo]] || Macrolanguage || Living || Afaan Oromoo || 
+|-
+| {{iso639-2|osa}} || osa ||  ||  || [[Osage language|Osage]] || Individual || Living || Wazhazhe ie / 𐓏𐓘𐓻𐓘𐓻𐓟 𐒻𐓟 || 
+|-
+| {{iso639-2|oss}} || oss ||  || os || [[Ossetian language|Ossetian]]; [[Ossetic language|Ossetic]] || Individual || Living || Ирон ӕвзаг ''Iron ævzag'' || 
+|-
+| {{iso639-2|ota}} || ota ||  ||  || [[Ottoman Turkish language|Turkish, Ottoman]] (1500–1928) || Individual || Historical || لسان عثمانى / lisân-ı Osmânî || 
+|-
+| {{iso639-2|oto}} ||  || oto ||  || [[Otomian languages]] || Collective ||  ||  || [[Oto-Pamean languages]]
+|- id="P"
+| {{iso639-2|paa}} ||  || paa ||  || [[Papuan languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|pag}} || pag ||  ||  || [[Pangasinan language|Pangasinan]] || Individual || Living || Salitan Pangasinan  || 
+|-
+| {{iso639-2|pal}} || pal ||  ||  || [[Pahlavi language|Pahlavi]] || Individual || Ancient || Pārsīk; Pārsīg || [[Middle Persian language|Middle Persian]]
+|-
+| {{iso639-2|pam}} || pam ||  ||  || [[Pampanga language|Pampanga]]; [[Kapampangan language|Kapampangan]] || Individual || Living || Amánung Kapampangan; Amánung Sísuan || 
+|-
+| {{iso639-2|pan}} || pan ||  || pa || [[Panjabi language|Panjabi]]; [[Punjabi language|Punjabi]] || Individual || Living || ਪੰਜਾਬੀ / پنجابی ''Pãjābī'' || 
+|-
+| {{iso639-2|pap}} || pap ||  ||  || [[Papiamento language|Papiamento]] || Individual || Living || Papiamentu || 
+|-
+| {{iso639-2|pau}} || pau ||  ||  || [[Palauan language|Palauan]] || Individual || Living || a tekoi er a Belau || 
+|-
+| {{iso639-2|peo}} || peo ||  ||  || [[Old Persian language|Persian, Old]] (ca. 600–400 B.C.) || Individual || Historical ||  || 
+|-
+| {{iso639-2|phi}} ||  || phi ||  || [[Philippine languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|phn}} || phn ||  ||  || [[Phoenician language|Phoenician]] || Individual || Ancient || 𐤃𐤁𐤓𐤉𐤌 𐤊𐤍𐤏𐤍𐤉𐤌 ''Dabariym Kana'aniym'' || 
+|-
+| {{iso639-2|pli}} || pli ||  || pi || [[Pali language|Pali]] || Individual || Ancient || Pāli || 
+|-
+| {{iso639-2|pol}} || pol ||  || pl || [[Polish language|Polish]] || Individual || Living || Język polski || 
+|-
+| {{iso639-2|pon}} || pon ||  ||  || [[Pohnpeian language|Pohnpeian]] || Individual || Living ||  || 
+|-
+| {{iso639-2|por}} || por ||  || pt || [[Portuguese language|Portuguese]] || Individual || Living || português || 
+|-
+| {{iso639-2|pra}} ||  || pra ||  || [[Prakrit languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|pro}} || pro ||  ||  || [[Old Provençal language|Provençal, Old]] (to 1500); [[Old Occitan language|Old&nbsp;Occitan]]&nbsp;(to&nbsp;1500) || Individual || Historical ||  || 
+|-
+| {{iso639-2|pus}} || pus ||  || ps || [[Pushto language|Pushto]]; [[Pashto language|Pashto]] || Macrolanguage || Living || پښتو ''Pax̌tow'' || 
+|- id="Q"
+| {{iso639-2|qaa-qtz}} || qaa-qtz ||  || || Reserved for local use || Local ||  || || 
+|-
+| {{iso639-2|que}} || que ||  || qu || [[Quechua language|Quechua]] || Macrolanguage || Living || Runa simi; kichwa simi; Nuna shimi || 
+|- id="R"
+| {{iso639-2|raj}} || raj ||  ||  || [[Rajasthani language|Rajasthani]] || Macrolanguage || Living || राजस्थानी || 
+|-
+| {{iso639-2|rap}} || rap ||  ||  || [[Rapanui language|Rapanui]] || Individual || Living || Vananga rapa nui || 
+|-
+| {{iso639-2|rar}} || rar ||  ||  || [[Rarotongan language|Rarotongan]]; [[Cook Islands Māori language|Cook Islands Māori]] || Individual || Living || Māori Kūki 'Āirani || 
+|-
+| {{iso639-2|roa}} ||  || roa ||  || [[Romance languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|roh}} || roh ||  || rm || [[Romansh language|Romansh]] || Individual || Living || Rumantsch; Rumàntsch; Romauntsch; Romontsch  || 
+|-
+| {{iso639-2|rom}} || rom ||  ||  || [[Romany language|Romany]] || Macrolanguage || Living || romani čhib || [[Romani language|Romani]]
+|-
+| {{iso639-2|ron}} / rum* || ron ||  || ro || [[Romanian language|Romanian]]; Moldavian; Moldovan || Individual || Living || limba română ||
+|-
+| {{iso639-2|run}} || run ||  || rn || [[Rundi language|Rundi]] || Individual || Living || Ikirundi || [[Kirundi language|Kirundi]]
+|-
+| {{iso639-2|rup}} || rup ||  ||  || [[Aromanian language|Aromanian]]; Arumanian; Macedo-Romanian{{efn|The term "Macedo-Romanian" might also be used for the [[Megleno-Romanians]] and [[Megleno-Romanian language|their language]].<ref>{{cite journal|url=https://www.ceeol.com/search/article-detail?id=87227|title=Some topics of the traditional wedding customs of the Macedo–Romanians (Aromanians and Megleno–Romanians)|first=Emil|last=Țîrcomnicu|journal=Romanian Journal of Population Studies|issue=3|pages=141–152|year=2009|volume=3 }}</ref>}} || Individual || Living || armãneashce; armãneashti; rrãmãneshti || 
+|-
+| {{iso639-2|rus}} || rus ||  || ru || [[Russian language|Russian]] || Individual || Living || русский язык ''russkiĭ âzık'' || 
+|- id="S"
+| {{iso639-2|sad}} || sad ||  ||  || [[Sandawe language|Sandawe]] || Individual || Living || Sandaweeki || 
+|-
+| {{iso639-2|sag}} || sag ||  || sg || [[Sango language|Sango]] || Individual || Living || yângâ tî sängö || 
+|-
+| {{iso639-2|sah}} || sah ||  ||  || [[Yakut language|Yakut]] || Individual || Living || Сахалыы || 
+|-
+| {{iso639-2|sai}} ||  || sai ||  || [[South American Indian languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|sal}} ||  || sal ||  || [[Salishan languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|sam}} || sam ||  ||  || [[Samaritan Aramaic language|Samaritan Aramaic]] || Individual || Extinct || ארמית || 
+|-
+| {{iso639-2|san}} || san ||  || sa || [[Sanskrit language|Sanskrit]] || Individual || Ancient || संस्कृतम् ''Sąskŕtam''; 𑌸𑌂𑌸𑍍𑌕𑍃𑌤𑌮𑍍 || 
+|-
+| {{iso639-2|sas}} || sas ||  ||  || [[Sasak language|Sasak]] || Individual || Living ||  || 
+|-
+| {{iso639-2|sat}} || sat ||  ||  || [[Santali language|Santali]] || Individual || Living || ᱥᱟᱱᱛᱟᱲᱤ || 
+|-
+| {{iso639-2|scn}} || scn ||  ||  || [[Sicilian language|Sicilian]] || Individual || Living || Sicilianu || 
+|-
+| {{iso639-2|sco}} || sco ||  ||  || [[Scots language|Scots]] || Individual || Living || Braid Scots; Lallans || 
+|-
+| {{iso639-2|sel}} || sel ||  ||  || [[Selkup language|Selkup]] || Individual || Living ||  || 
+|-
+| {{iso639-2|sem}} ||  || sem ||  || [[Semitic languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|sga}} || sga ||  ||  || [[Old Irish language|Irish, Old]] (to 900) || Individual || Historical || Goídelc || 
+|-
+| {{iso639-2|sgn}} ||  || sgn ||  || [[Sign Languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|shn}} || shn ||  ||  || [[Shan language|Shan]] || Individual || Living || ၵႂၢမ်းတႆးယႂ်  || 
+|-
+| {{iso639-2|sid}} || sid ||  ||  || [[Sidamo language|Sidamo]] || Individual || Living || Sidaamu Afoo || 
+|-
+| {{iso639-2|sin}} || sin ||  || si || [[Sinhala language|Sinhala]]; [[Sinhalese language|Sinhalese]] || Individual || Living || සිංහල ''Sĩhala'' || 
+|-
+| {{iso639-2|sio}} ||  || sio ||  || [[Siouan languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|sit}} ||  || sit ||  || [[Sino-Tibetan languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|sla}} ||  || sla ||  || [[Slavic languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|slk}} / slo* || slk ||  || sk || [[Slovak language|Slovak]] || Individual || Living || slovenčina; slovenský jazyk ||
+|-
+| {{iso639-2|slv}} || slv ||  || sl || [[Slovenian language|Slovenian]] || Individual || Living || slovenski jezik; slovenščina || [[Slovene language|Slovene]]
+|-
+| {{iso639-2|sma}} || sma ||  ||  || [[Southern Sami language|Southern Sami]] || Individual || Living || Åarjelsaemien gïele || 
+|-
+| {{iso639-2|sme}} || sme ||  || se || [[Northern Sami language|Northern Sami]] || Individual || Living || davvisámegiella || 
+|-
+| {{iso639-2|smi}} ||  || smi ||  || [[Sami languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|smj}} || smj ||  ||  || [[Lule Sami language|Lule Sami]] || Individual || Living || julevsámegiella || 
+|-
+| {{iso639-2|smn}} || smn ||  ||  || [[Inari Sami language|Inari Sami]] || Individual || Living || anarâškielâ || 
+|-
+| {{iso639-2|smo}} || smo ||  || sm || [[Samoan language|Samoan]] || Individual || Living || Gagana faʻa Sāmoa || 
+|-
+| {{iso639-2|sms}} || sms ||  ||  || [[Skolt Sami language|Skolt Sami]] || Individual || Living || sääʹmǩiõll || 
+|-
+| {{iso639-2|sna}} || sna ||  || sn || [[Shona language|Shona]] || Individual || Living || chiShona || 
+|-
+| {{iso639-2|snd}} || snd ||  || sd || [[Sindhi language|Sindhi]] || Individual || Living || سنڌي / सिन्धी / ਸਿੰਧੀ || 
+|-
+| {{iso639-2|snk}} || snk ||  ||  || [[Soninke language|Soninke]] || Individual || Living || Sooninkanxanne || 
+|-
+| {{iso639-2|sog}} || sog ||  ||  || [[Sogdian language|Sogdian]] || Individual || Ancient ||  || 
+|-
+| {{iso639-2|som}} || som ||  || so || [[Somali language|Somali]] || Individual || Living || af Soomaali || 
+|-
+| {{iso639-2|son}} ||  || son ||  || [[Songhai languages]] || Collective ||  ||  || [[Songhay languages]]
+|-
+| {{iso639-2|sot}} || sot ||  || st || [[Southern Sotho language|Sotho, Southern]] || Individual || Living || Sesotho [southern] || 
+|-
+| {{iso639-2|spa}} || spa ||  || es || [[Spanish language|Spanish]]; [[Castilian language|Castilian]] || Individual || Living || español; castellano || 
+|-
+| {{iso639-2|sqi}} / alb* || sqi ||  || sq || [[Albanian language|Albanian]] || Macrolanguage || Living || Shqip || 
+|-
+| {{iso639-2|srd}} || srd ||  || sc || [[Sardinian language|Sardinian]] || Macrolanguage || Living || sardu; limba sarda; lingua sarda || 
+|-
+| {{iso639-2|srn}} || srn ||  ||  || [[Sranan Tongo language|Sranan Tongo]] || Individual || Living ||  || 
+|-
+| {{iso639-2|srp}} || srp ||  || sr || [[Serbian language|Serbian]] || Individual || Living || српски / srpski || 
+|-
+| {{iso639-2|srr}} || srr ||  ||  || [[Serer language|Serer]] || Individual || Living || Seereer || 
+|-
+| {{iso639-2|ssa}} ||  || ssa ||  || [[Nilo-Saharan languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|ssw}} || ssw ||  || ss || [[Swati language|Swati]] || Individual || Living || siSwati || [[Swazi language|Swazi]]
+|-
+| {{iso639-2|suk}} || suk ||  ||  || [[Sukuma language|Sukuma]] || Individual || Living || Kɪsukuma || 
+|-
+| {{iso639-2|sun}} || sun ||  || su || [[Sundanese language|Sundanese]] || Individual || Living || ᮘᮞ ᮞᮥᮔ᮪ᮓ / Basa Sunda || 
+|-
+| {{iso639-2|sus}} || sus ||  ||  || [[Susu language|Susu]] || Individual || Living || Sosoxui || 
+|-
+| {{iso639-2|sux}} || sux ||  ||  || [[Sumerian language|Sumerian]] || Individual || Ancient || 𒅴𒂠 || 
+|-
+| {{iso639-2|swa}} || swa ||  || sw || [[Swahili language|Swahili]] || Macrolanguage || Living || Kiswahili || 
+|-
+| {{iso639-2|swe}} || swe ||  || sv || [[Swedish language|Swedish]] || Individual || Living || svenska || 
+|-
+| {{iso639-2|syc}} || syc ||  ||  || [[Classical Syriac language|Classical Syriac]] || Individual || Historical ||  || 
+|-
+| {{iso639-2|syr}} || syr ||  ||  || [[Syriac language|Syriac]] || Macrolanguage || Living || ܠܫܢܐ ܣܘܪܝܝܐ ''Lešānā Suryāyā'' || 
+|- id="T"
+| {{iso639-2|tah}} || tah ||  || ty || [[Tahitian language|Tahitian]] || Individual || Living || Reo Tahiti; Reo Mā'ohi || 
+|-
+| {{iso639-2|tai}} ||  || tai ||  || [[Tai languages]] || Collective ||  || ภาษาไท; ภาษาไต || 
+|-
+| {{iso639-2|tam}} || tam ||  || ta || [[Tamil language|Tamil]] || Individual || Living || தமிழ் ''Tamił'' || 
+|-
+| {{iso639-2|tat}} || tat ||  || tt || [[Tatar language|Tatar]] || Individual || Living || татар теле / tatar tele / تاتار  || 
+|-
+| {{iso639-2|tel}} || tel ||  || te || [[Telugu language|Telugu]] || Individual || Living || తెలుగు ''Telugu'' || 
+|-
+| {{iso639-2|tem}} || tem ||  ||  || [[Timne language|Timne]] || Individual || Living || KʌThemnɛ || [[Temne language|Temne]]
+|-
+| {{iso639-2|ter}} || ter ||  ||  || [[Tereno language|Tereno]] || Individual || Living || Terêna || [[Terena language|Terena]]
+|-
+| {{iso639-2|tet}} || tet ||  ||  || [[Tetum language|Tetum]] || Individual || Living || Lia-Tetun || 
+|-
+| {{iso639-2|tgk}} || tgk ||  || tg || [[Tajik language|Tajik]] || Individual || Living || тоҷикӣ ''toçikī'' || 
+|-
+| {{iso639-2|tgl}} || tgl ||  || tl || [[Tagalog language|Tagalog]] || Individual || Living || Wikang Tagalog || 
+|-
+| {{iso639-2|tha}} || tha ||  || th || [[Thai language|Thai]] || Individual || Living || ภาษาไทย ''Phasathay'' || 
+|-
+| {{iso639-2|tig}} || tig ||  ||  || [[Tigre language|Tigre]] || Individual || Living || ትግረ; ትግሬ; ኻሳ; ትግራይት || 
+|-
+| {{iso639-2|tir}} || tir ||  || ti || [[Tigrinya language|Tigrinya]] || Individual || Living || ትግርኛ || 
+|-
+| {{iso639-2|tiv}} || tiv ||  ||  || [[Tiv language|Tiv]] || Individual || Living ||  || 
+|-
+| {{iso639-2|tkl}} || tkl ||  ||  || [[Tokelau language|Tokelau]] || Individual || Living ||  || [[Tokelauan language|Tokelauan]]
+|-
+| {{iso639-2|tlh}} || tlh ||  ||  || [[Klingon language|Klingon]]; [[tlhIngan-Hol language|tlhIngan-Hol]]<!--starts with lowercase--> || Individual || Constructed ||  || 
+|-
+| {{iso639-2|tli}} || tli ||  ||  || [[Tlingit language|Tlingit]] || Individual || Living || Lingít || 
+|-
+| {{iso639-2|tmh}} || tmh ||  ||  || [[Tamashek language|Tamashek]] || Macrolanguage || Living ||  || [[Tamasheq language|Tamasheq]]
+|-
+| {{iso639-2|tog}} || tog ||  ||  || [[Tonga language (Nyasa)|Tonga (Nyasa)]] || Individual || Living || chiTonga || 
+|-
+| {{iso639-2|ton}} || ton ||  || to || [[Tonga language (Tonga Islands)|Tonga (Tonga Islands)]] || Individual || Living || lea faka-Tonga || [[Tongan language|Tongan]]
+|-
+| {{iso639-2|tpi}} || tpi ||  ||  || [[Tok Pisin language|Tok Pisin]] || Individual || Living ||  || 
+|-
+| {{iso639-2|tsi}} || tsi ||  ||  || [[Tsimshian language|Tsimshian]] || Individual || Living ||  || 
+|-
+| {{iso639-2|tsn}} || tsn ||  || tn || [[Tswana language|Tswana]] || Individual || Living || Setswana || 
+|-
+| {{iso639-2|tso}} || tso ||  || ts || [[Tsonga language|Tsonga]] || Individual || Living || Xitsonga || 
+|-
+| {{iso639-2|tuk}} || tuk ||  || tk || [[Turkmen language|Turkmen]] || Individual || Living || Türkmençe / Түркменче / تورکمن تیلی تورکمنچ; türkmen dili / түркмен дили || 
+|-
+| {{iso639-2|tum}} || tum ||  ||  || [[Tumbuka language|Tumbuka]] || Individual || Living || chiTumbuka || 
+|-
+| {{iso639-2|tup}} ||  || tup ||  || [[Tupi languages]] || Collective ||  ||  || [[Tupian languages]]
+|-
+| {{iso639-2|tur}} || tur ||  || tr || [[Turkish language|Turkish]] || Individual || Living || Türkçe || 
+|-
+| {{iso639-2|tut}} ||  || tut ||  || [[Altaic languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|tvl}} || tvl ||  ||  || [[Tuvalu language|Tuvalu]] || Individual || Living || Te Ggana Tuuvalu; Te Gagana Tuuvalu || [[Tuvaluan language|Tuvaluan]]
+|-
+| {{iso639-2|twi}} || twi ||  || tw || [[Twi language|Twi]] || Individual || Living ||  || 
+|-
+| {{iso639-2|tyv}} || tyv ||  ||  || [[Tuvinian language|Tuvinian]] || Individual || Living || тыва дыл || [[Tuvan language|Tuvan]]
+|- id="U"
+| {{iso639-2|udm}} || udm ||  ||  || [[Udmurt language|Udmurt]] || Individual || Living || удмурт кыл || 
+|-
+| {{iso639-2|uga}} || uga ||  ||  || [[Ugaritic language|Ugaritic]] || Individual || Ancient ||  || 
+|-
+| {{iso639-2|uig}} || uig ||  || ug || [[Uighur language|Uighur]]; [[Uyghur language|Uyghur]] || Individual || Living || ئۇيغۇرچە  ;  ئۇيغۇر تىلى || 
+|-
+| {{iso639-2|ukr}} || ukr ||  || uk || [[Ukrainian language|Ukrainian]] || Individual || Living || Українська мова; Українська || 
+|-
+| {{iso639-2|umb}} || umb ||  ||  || [[Umbundu language|Umbundu]] || Individual || Living || Úmbúndú || 
+|-
+| {{iso639-2|und}} || und ||  ||  || Undetermined || Special ||  ||  || 
+|-
+| {{iso639-2|urd}} || urd ||  || ur || [[Urdu language|Urdu]] || Individual || Living || اُردُو ''Urduw'' || 
+|-
+| {{iso639-2|uzb}} || uzb ||  || uz || [[Uzbek language|Uzbek]] || Macrolanguage || Living || Oʻzbekcha / Ózbekça / ўзбекча / ئوزبېچه; oʻzbek tili / ўзбек тили /  ئوبېک تیلی || 
+|- id="V"
+| {{iso639-2|vai}} || vai ||  ||  || [[Vai language|Vai]] || Individual || Living || ꕙꔤ || 
+|-
+| {{iso639-2|ven}} || ven ||  || ve || [[Venda language|Venda]] || Individual || Living || Tshivenḓa || 
+|-
+| {{iso639-2|vie}} || vie ||  || vi || [[Vietnamese language|Vietnamese]] || Individual || Living || Tiếng Việt || 
+|-
+| {{iso639-2|vol}} || vol ||  || vo || [[Volapük]] || Individual || Constructed ||  || 
+|-
+| {{iso639-2|vot}} || vot ||  ||  || [[Votic language|Votic]] || Individual || Living || vađđa ceeli || 
+|- id="W"
+| {{iso639-2|wak}} ||  || wak ||  || [[Wakashan languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|wal}} || wal ||  ||  || [[Wolaitta language|Wolaitta]]; Wolaytta || Individual || Living ||  || 
+|-
+| {{iso639-2|war}} || war ||  ||  || [[Waray language|Waray]] || Individual || Living || Winaray; Samareño; Lineyte-Samarnon; Binisayâ nga Winaray; Binisayâ nga Samar-Leyte; “Binisayâ nga Waray” || 
+|-
+| {{iso639-2|was}} || was ||  ||  || [[Washo language|Washo]] || Individual || Living || wá:šiw ʔítlu ||
+|-
+| {{iso639-2|wen}} ||  || wen ||  || [[Sorbian languages]] || Collective ||  || Serbsce / Serbski || 
+|-
+| {{iso639-2|wln}} || wln ||  || wa || [[Walloon language|Walloon]] || Individual || Living || Walon || 
+|-
+| {{iso639-2|wol}} || wol ||  || wo || [[Wolof language|Wolof]] || Individual || Living ||  || 
+|- id="X"
+| {{iso639-2|xal}} || xal ||  ||  || [[Kalmyk language|Kalmyk]]; [[Oirat language|Oirat]] || Individual || Living || Хальмг келн / Xaľmg keln || 
+|-
+| {{iso639-2|xho}} || xho ||  || xh || [[Xhosa language|Xhosa]] || Individual || Living || isiXhosa || 
+|- id="Y"
+| {{iso639-2|yao}} || yao ||  ||  || [[Yao language|Yao]] || Individual || Living ||  || 
+|-
+| {{iso639-2|yap}} || yap ||  ||  || [[Yapese language|Yapese]] || Individual || Living ||  || 
+|-
+| {{iso639-2|yid}} || yid ||  || yi || [[Yiddish language|Yiddish]] || Macrolanguage || Living || ייִדיש; יידיש; אידיש ''Yidiš'' || 
+|-
+| {{iso639-2|yor}} || yor ||  || yo || [[Yoruba language|Yoruba]] || Individual || Living || èdè Yorùbá || 
+|-
+| {{iso639-2|ypk}} ||  || ypk ||  || [[Yupik languages]] || Collective ||  ||  || 
+|- id="Z"
+| {{iso639-2|zap}} || zap ||  ||  || [[Zapotec language|Zapotec]] || Macrolanguage || Living || Diidxazá/Dizhsa || 
+|-
+| {{iso639-2|zbl}} || zbl ||  ||  || [[Blissymbols language|Blissymbols]]; [[Blissymbolics language|Blissymbolics]]; [[Bliss language|Bliss]] || Individual || Constructed ||  || 
+|-
+| {{iso639-2|zen}} || zen ||  ||  || [[Zenaga language|Zenaga]] || Individual || Living || Tuḍḍungiyya || 
+|-
+| {{iso639-2|zgh}} || zgh ||  ||  || [[Standard Moroccan Tamazight language|Standard Moroccan Tamazight]] || Individual || Living || ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ || [[Standard Moroccan Berber language|Standard Moroccan Berber]]
+|-
+| {{iso639-2|zha}} || zha ||  || za || [[Zhuang language|Zhuang]]; [[Chuang language|Chuang]] || Macrolanguage || Living || Vahcuengh / 話僮 || 
+|-
+| {{iso639-2|zho}} / chi* || zho ||  || zh || [[Chinese language|Chinese]] || Macrolanguage || Living || 中文 ''Zhōngwén''; 汉语; 漢語 ''Hànyǔ'' || 
+|-
+| {{iso639-2|znd}} ||  || znd ||  || [[Zande languages]] || Collective ||  ||  || 
+|-
+| {{iso639-2|zul}} || zul ||  || zu || [[Zulu language|Zulu]] || Individual || Living || isiZulu || 
+|-
+| {{iso639-2|zun}} || zun ||  ||  || [[Zuni language|Zuni]] || Individual || Living || Shiwi'ma || 
+|-
+| {{iso639-2|zxx}} || zxx ||  ||  || No linguistic content; Not applicable || Special ||  ||  || 
+|-
+| {{iso639-2|zza}} || zza ||  ||  || [[Zaza language|Zaza]]; [[Dimili language|Dimili]]; [[Dimli language|Dimli]]; [[Kirdki language|Kirdki]]; [[Kirmanjki language|Kirmanjki]]; [[Zazaki language|Zazaki]] || Macrolanguage || Living || kirmanckî; dimilkî; kirdkî; zazakî  || 
