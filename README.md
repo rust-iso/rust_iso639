@@ -32,7 +32,7 @@ rust-iso/rust_iso639 is licensed under the Apache-2.0 license.
 
 ## Using
 
-See [using](https://crates.io/crates/rust_iso3166) section of the documentation.
+See [using](https://crates.io/crates/rust_iso639) section of the documentation.
 
 Quick guide:
 
